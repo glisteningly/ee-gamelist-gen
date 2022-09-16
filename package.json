@@ -5,5 +5,8 @@
   "license": "MIT",
   "scripts": {
     "run": "node index.js"
+  },
+  "dependencies": {
+    "debian-control": "^1.0.0"
   }
 }

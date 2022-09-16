@@ -1,0 +1,1371 @@
+collection: NEO GEO
+shortname: neogeo
+sort-by: arcade 1990
+extensions: 7z, zip
+ignore-file: neogeo.zip
+launch: am start --user 0
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/fbalpha2012_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e IME com.android.inputmethod.latin/.LatinIME
+  -e DATADIR /data/data/com.retroarch
+  -e APK /data/app/com.retroarch/base.apk
+  -e SDCARD /storage/emulated/0
+  -e EXTERNAL /storage/emulated/0/Android/data/com.retroarch/files
+  --activity-clear-top
+
+game: Aggressors of Dark Kombat
+file: aodk.zip
+developer: ADK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  Aggressors of Dark Kombat is another one-on-one street fighting beat 'em up from
+  the Neo-Geo's seemingly endless library of fighters.
+  .
+  It pits 8 fighters of different styles and strengths against each other in a
+  tournament to see who's the toughest mofo on the streets of Tokyo. Your
+  objective as usual is to deplete your opponent's health bar within the time
+  limit by using your basic attacks and special moves (triggered by specific
+  controller motions) while avoiding his moves and attacks.
+  .
+  Unique to Aggressors of Dark Kombat is the combination of traditional
+  side-scrolling beat 'em up elements, meaning characters can freely move in an
+  isometric space instead of being restricted to a single plane of movement.
+  Weapons and throw-able items are usually thrown into the arena by the crowds and
+  you can pick them up and wield them for added damage. Additionally, matches are
+  1-round only affairs, with an extended multi-layered health bar that allows for
+  longer rounds than usual.
+release: 1994-08-26
+players: 2
+x-id: 37564
+
+
+game: Art of Fighting
+file: aof.zip
+developer: SNK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  The storyline of Art of Fighting takes place in 1978. Ryo Sakazaki and Robert
+  Garcia set out to find Ryo's sister, Yuri, who was kidnapped by Mr. Big. Mr. Big
+  took Yuri to entice Takuma Sakazaki, Ryo's father and originator of Kyokugen
+  Karate, and also because Ryo refused to work for Big. After Ryo & Robert defeat
+  Mr. Big, they face the enigmatic Mr. Karate. Art of Fighting's story ends with a
+  cliff-hanger; Yuri is about to disclose the true identity of Mr. Karate as their
+  father Takuma.
+release: 1992-12-11
+players: 2
+x-id: 37565
+
+
+game: Art of Fighting 2
+file: aof2.zip
+developer: SNK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  In this sequel to the original Art of Fighting, and prequel to the original
+  Fatal Fury, we learn that Mr. Karate, the final boss of the original game,
+  behind the mask, is really Takuma Sakazaki, Ryo and Yuri's father, that Takuma
+  was being used by Geese Howard for his own evil intentions, and that Mr. Big was
+  the one who had originally kidnapped Yuri.
+  .
+  Many of the problems that existed in the first game have been fixed in this
+  installment (it is easier to execute special moves, you no longer have only Ryo
+  or Robert to choose from in 1 player mode, etc.).
+  .
+  The entire cast from the first Art of Fighting is here (with the exceptions of
+  Todo and Mr. Karate), along with a few new characters: Takuma Sakazaki, Ryo and
+  Yuri's father; Yuri Sakazaki, Takuma's daughter and Ryo's sister; Eiji Kisaragi,
+  a sworn enemy of the Sakazakis; Temjin, a Mongolian trucker; and a younger
+  version of Geese Howard, whom you face as the last boss if you beat the game
+  without losing a round.
+release: 1994-03-11
+players: 2
+x-id: 37566
+
+
+game: Art of Fighting 3 - The Path of the Warrior
+file: aof3.zip
+developer: SNK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  In this third and final entry in the Art of Fighting series, the story shifts
+  from Ryo Sakazaki to his best friend and rival, Robert Garcia, as he ventures
+  into Mexico to try and locate Freia Lawrence, a childhood friend, who asked for
+  his help. However, he leaves without the consent of The Garcia Foundation, which
+  sends an agent named Karman Cole to get him back. But not everything is as
+  simple as it looks... because Robert is not the only one looking for Freia.
+  .
+  Art of Fighting 3: The Path of The Warrior features ten playable characters with
+  different fighting styles, a completely new fighting system based on joystick
+  and button combinations, and incredibly detailed graphics and animation.
+release: 1996-04-26
+players: 2
+x-id: 37567
+
+
+game: Bang Bead
+file: bangbead.zip
+developer: Visco
+publisher: Visco
+genre: Sports
+description:
+  Bang Bead, known in Japan as Bang Beads, is a 2001 ball-and-paddle game
+  developed and published by Visco exclusively for the arcade cabinet known as the
+  SNK Neo-Geo MVS hardware. It combines the genres of the Magnavox Odyssey Tennis
+  game, Atari's Pong and Breakout arcades, and Nintendo's Spitball Sparky of the
+  Game & Watch series. You can select from 9 characters and play against another
+  player or the computer. Knock out the stars behind the other player then get the
+  bouncing ball through to win the round.
+release: 2000-01-01
+players: 2
+x-id: 37568
+
+
+game: Blazing Star
+file: blazstar.zip
+developer: Yumekobo
+publisher: SNK
+genre: Shoot'em Up, Shoot'em Up / Horizontal
+description:
+  The unofficial sequel to Pulstar, Blazing Star is again a horizontal-scrolling
+  shoot-'em-up. One or two players proceed along levels, each with a boss enemy at
+  the end, trying to redeem the humankind. There are six ships to choose from,
+  each with its own pilot (four of them females), weapons and characteristics of
+  movement. Each ship has its own types of shots, but also a standard shot,
+  charged shot (more powerful) and split shot (a charged shot can be parted into
+  more bullets, lowering the power of each bullet while widening the fire range).
+release: 1998-01-01
+players: 2
+x-id: 13893
+
+
+game: Breakers
+file: breakers.zip
+developer: Visco
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  In Breakers, choose one of eight fighters who have their own moves and special
+  attacks. There are eight stages in the game, and each stage has two battles. The
+  object of each battle is to drain your opponent's energy in order to win the
+  battle. If there is a draw, a third battle takes place. If the time limit
+  expires, the player with the less energy loses the battle. Once you have
+  completed all eight stages, you will face a opponent that is much tougher than
+  previous ones. Different endings and in-game dialog are viewed depending on the
+  character that you select.
+release: 1996-12-17
+players: 2
+x-id: 13877
+
+
+game: Breakers Revenge
+file: breakrev.zip
+developer: Visco
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  8 initially selectable characters face off to become the Tae Kwon Do master!
+  After defeating the absolutely WACKY Master Taekuk, he becomes selectable as
+  well to face off against end boss Karate Kenji.
+release: 1998-07-03
+players: 2
+x-id: 37570
+
+
+game: Burning Fight
+file: burningf.zip
+developer: SNK
+publisher: SNK
+genre: Beat'em Up
+description:
+  The Castella family from the Metro City started ruining the peaceful city of
+  Osaka with the violent Japanese group, "Heiwa-gumi". To stop the fight, Metro
+  police detectives dispatched two dangerous characters, Duke and Billy, to Japan.
+  With the support of the famous Japanese detective Ryu, they decided to rush into
+  the enemy's fortress. Ruthless violence in the neon lights of Osaka. Will there
+  be an end to this war?
+  .
+  Burning Fight is a side-scrolling street-fighting game similar to Final Fight.
+  As Duke, Billy, or Ryu, you must fight your way through the various locations in
+  Osaka. At the start of the game, you can only use your fists to deal with gangs,
+  but by by breaking things like phone booths and street signs along the way, you
+  can get new weapons and more health. At the end of each location, you will have
+  to defeat a boss in order to continue the mission.
+release: 1991-08-09
+players: 2
+x-id: 37572
+
+
+game: Captain Tomaday
+file: ctomaday.zip
+developer: SNK
+publisher: SNK
+genre: Shoot'em Up, Shoot'em Up / Vertical
+description:
+  A comical vertically scrolling shoot'em up starring a mutated tomato who punches
+  the enemy and can transform to other weird characters.
+release: 1999-01-01
+players: 2
+x-id: 13938
+
+
+game: Double Dragon
+file: doubledr.zip
+developer: Tecmo
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  Released around the same time as the film of the same name and loosely based on
+  its story, this installment in the Double Dragon series also moves away from the
+  traditional roam-the-streets-fighting to a pure one-on-one fighter. There are
+  ten characters to choose from, including Billy and Jimmy and the game has
+  colorful interactive backgrounds, screen zooming, over-the-top special moves and
+  with the inclusion of double jumps, combos, charges for the losing player and
+  counter hits, there is plenty of room for advanced fighting strategies.
+release: 1995-03-31
+players: 2
+x-id: 37573
+
+
+game: Fatal Fury 3: Road to the Final Victory
+file: fatfury3.zip
+developer: SNK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  An adaptation of the Neo-Geo fighting game.  2-D scrolling one-on-one fighter
+  with pseudo-3D aspects (that allows for players to "escape" holds, throws, and
+  other attacks.)  Part of the incestuously-popular SNK fighting game pantheon...
+release: 1995-04-21
+players: 2
+x-id: 37578
+
+
+game: Ganryu
+file: ganryu.zip
+developer: Visco
+publisher: SNK
+genre: Platform, Platform / Fighter Scrolling
+description:
+  One month has passed since Musashi defeated his sworn enemy, Kojiro. Musashi was
+  on the way to Kyoto, where his beloved Otsu was waiting for him. Around this
+  time, many abductions had occurred by a mysterious group of ninjas, and Otsu was
+  one of the missing. What is the true purpose of these ninjas? The time to fight
+  has come again for Musashi!!
+  .
+  You must guide Musashi or his sister, Suzame, around several locations defeating
+  a horde of ninjas with only a sword. Weapon power-ups and life bonuses can be
+  collected along the way. You can jump high and use your grappling hook to attach
+  to and climb some ceilings, as well as attaching yourself to faraway objects. At
+  the end of each location, you must defeat a guardian in order to continue the
+  game. Cut-scenes are viewed between locations.
+release: 1999-01-01
+players: 2
+x-id: 13945
+
+
+game: Garou: Mark of the Wolves
+file: garou.zip
+developer: SNK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  It's been several years since Geese Howard was defeated in a battle with Terry
+  Bogard, a young man looking to avenge his father. Rather than looking to be
+  saved from death after falling off his office balcony, Geese instead decided to
+  die, and left behind his young son, Rock. Terry took Rock in and became like a
+  big brother to him, raising the boy throughout his life.
+  .
+  Now Rock is a teenager, and Terry is a man in his 30s, and both are about to
+  come together in a new clash...new faces and old come together for the greatest
+  battle yet!
+release: 2000-02-25
+players: 2
+x-id: 37581
+
+
+game: Far East of Eden: Kabuki Klash
+file: kabukikl.zip
+developer: Red Company
+publisher: Hudson
+genre: Fight, Fight / Versus
+description:
+  "Kabuki Klash" is a 2D fighting game that features characters from the famous
+  Japanese role-playing series  Tengai Makyou, also known as Far East of Eden. The
+  heroes of the three first Tengai Makyou games must participate in a tournament
+  and find out who is the most skillful fighter in the magical land of Jipang
+  (which is very similar to the medieval Japan). The characters include well-known
+  Far East of Eden heroes such as Ziria, Manjimaru, Kabuki, Orochimaru, and others
+  - a total of eight playable characters. During the fights, you can either punch,
+  kick, or use special attacks, that require a precise usage of buttons and also
+  deplete your magic gauge. There are random items (such as healing potions)
+  thrown on the battle field while you are fighting, which you can pick up.
+release: 1995-11-23
+players: 2
+x-id: 37589
+
+
+game: Kizuna Encounter - Super Tag Battle
+file: kizuna.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  Fight Alone!\n
+  Competition or Team Battles. The Tage Battle of a Lifetime Begins!\n
+  Or Fight with a Friend!
+  .
+  Why Do You Fight?! For money? For glory? For...?!\n
+  The Fate of 10 of the World's Mightiest Warriors Rests on the Grand Ambitions of
+  King Lion!
+release: 1996-11-08
+players: 2
+x-id: 13920
+
+
+game: The King of Fighters 2000
+file: kof2000.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  The final King of Fighters game released by SNK in its original state, The King
+  of Fighters 2000 expands on the story and gameplay presented in The King of
+  Fighters '99. This year's tournament is sponsored by the Ikari Warriors in an
+  attempt to discover more about the NESTS organization, and to derail the plans
+  of potential NESTS agents K' and Maxima. Not everything is as straight-forward
+  as it usually is, however, and even the Ikari Warriors themselves are at risk of
+  being betrayed from within by the end of the tournament.
+release: 2000-01-01
+players: 2
+x-id: 13879
+
+
+game: The King of Fighters 2001
+file: kof2001.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  In this eighth installment of the King of Fighters series, ten different teams
+  once again battle it out in several countries to decide which team will be this
+  year's King of Fighters. However, the NESTS organization is once again standing
+  in the participant's way; they have deployed their own team of four fighters,
+  lead by two individuals of high-rank within NESTS: a man claiming to be the
+  original Zero and Igniz, the CEO of NESTS. The character roster has been updated
+  yet again for this release in the series.
+release: 2002-03-14
+players: 2
+x-id: 37591
+
+
+game: The King of Fighters 2002
+file: kof2002.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  The second plotless "dream match" in The King of Fighters series, this game
+  sports 39 normal characters and 5 hidden characters, some of whom haven't
+  appeared since KOF98. The King of Fighters 2002 also has five characters
+  exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King,
+  Geese Howard, "Riot of the Blood" Iori and Leopold Goenitz. Shingo and King are
+  available on all the non-Neo Geo systems, while Geese and the rest are only
+  available on the PS2 and X-Box platforms.
+  .
+  The gameplay system has also changed. The striker system and four-character
+  teams found in the last three KOF releases have been totally removed. In their
+  place are the old-school three man teams and the "Advanced system" from The King
+  of Fighters '97 and The King of Fighters '98.
+release: 2002-12-18
+players: 2
+x-id: 13857
+
+
+game: The King of Fighters 2003
+file: kof2003.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  Like The King of Fighters 2002, this game reverts back to the old 3-on-3 format
+  used from KOF '94 to KOF '98. A new feature to this game that old-school KOF
+  fans might have trouble getting used to is the new interchangeable team system.
+  You still pick three characters and decide your character order before a match,
+  but now you have the option to change to another character during a match. You
+  can change at any time during a match, but you cannot when two of your teammates
+  have been taken out, and only one character is left in reserve.
+release: 2004-03-18
+players: 2
+x-id: 13878
+
+
+game: The King of Fighters '94
+file: kof94.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  The King of Fighters '94 is notable in that it is one of the first known
+  fighting games that pits a team of fighters against each other in single combat.
+  Each team consists of three fighters for each player, the winner being the
+  player who is able to eliminate the other team first. Each active character can
+  charge up "Art of Fighting" style in order to gain access to "Desperation
+  Moves", or "DMs" (moves which operate very much like Street Fighter's Super
+  Combos). Playing against the computer, the player must defeat all 8 teams in the
+  game in order to reach the final boss, Rugal Bernstein.
+release: 1994-10-01
+players: 2
+x-id: 13894
+
+
+game: The King of Fighters '95
+file: kof95.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  Summer, 1995. The world's toughest combatants once again team up for the supreme
+  competition. A stellar cast of fighting stars gather in the most colossal
+  conflagration in history! Along with terrifying new challenges... out of the
+  storm of battle comes The King of Fighters '95! Experience a new age in fighting
+  games with the original Team Edit Mode!
+  .
+  Choose from 24 characters! Take your pick from a bountiful selection to create
+  history's most awesome team of pure pugilism. Create your own original
+  bruise-giving team of 3 by selecting your favorite fighters!
+release: 1995-09-01
+players: 2
+x-id: 37592
+
+
+game: The King of Fighters '96
+file: kof96.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  SNK's flagship series returns for another year. Many of the changes in this
+  year's KOF release come in the form of improved graphics, sound effects, music
+  and totally redone character sprites. The gameplay of the system has been
+  altered with the addition of "Rush" multi-hit combos and new moves for
+  practically every character. The storyline of the series receives heavy focus in
+  this release with the Orochi Saga swinging into high-gear. Other features
+  carried over from the previous year include the ability to choose between the
+  default "Team Fighting" mode or the traditional "Single Fighter" style of
+  gameplay, plus the "Versus" and "Survival" gameplay modes.
+release: 1996-09-27
+players: 2
+x-id: 37593
+
+
+game: The King of Fighters '97
+file: kof97.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  Another year, another KOF. Additions this year come in the form of slightly
+  improved graphics and sounds, new moves and a new game mode. Gameplay is much
+  more plot-driven, as you have middle-bosses that can change depending on what
+  team you select. In addition, there are several special endings which are only
+  shown when certain "Edit Team" combinations are selected. New characters include
+  the New Face Team, the Fatal Fury Outlaw Team (featuring the KOF debut of "Blue"
+  Mary Ryan and Ryuji Yamazaki, and the return of Billy Kane), and Kyo's pupil
+  Shingo Yabuki. In total, The King of Fighters '97 sports 29 separate characters.
+release: 1997-09-25
+players: 2
+x-id: 37594
+
+
+game: The King of Fighters '98 - The Slugfest
+file: kof98.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  For all you King of Fighters fans, SNK offers the ultimate KOF installment! A
+  total of 38 of your favorite fighters from all the characters appearing in the
+  '94 to '97 versions. The nostalgic American Sports team, Lugal, as well as
+  Heidern, Takuma, Saishu Kusanagi and other long-awaited characters are back! The
+  ultimate reunion is about to begin in The King of Fighters '98!
+  .
+  THE ADVANTAGE SYSTEM HEATS UP THE COMPETITION\n
+  During battles, if one of your team members lose, you gain the systematic
+  advantage with KOF '98's revolutionary game system. In the Advanced Mode, each
+  player gets up to three power stock items. The second player can get up to four,
+  and the third player up to five. In the Extra Mode, the length of the power
+  gauge decreases progressively with the second and third players to make building
+  up power easier.
+  .
+  THE EXCITING, ADRENALIN-FUELED ROULETTE TEAM EDIT MODE\n
+  Use the roulette wheel to select team members at random. You can select one to
+  three members with the roulette wheel! As a team wins, the roulette wheel spins
+  again. Who will join your team is up to fate!
+release: 1998-09-23
+players: 2
+x-id: 37595
+
+
+game: The King of Fighters '99 : Millennium Battle
+file: kof99.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  A new hero and surprising plot twists offer white-hot excitement! It is the
+  season of KOF! A new chapter in the saga begins! With a story centering around
+  the new hero K' (K Prime), along with an overhauled game system that pits
+  4-member teams against each other, KOF '99 is sure to raise excitement levels
+  through the roof. The new battle begins here!
+  .
+  Along with K', six new characters and two Kyo Kusanagi clones appear as Edit
+  Mode characters. This means players can choose their favorite from a whopping
+  total of 30 characters!
+  .
+  FOUR MAKES ONE FOR FEARSOME BATTLES\n
+  3-on-3 is old hat. From now on, it's 4-on-4, buster. Each team consists of three
+  contestants, along with the Striker (who specializes in Tag Team attacks and
+  brings new possibilities to battle strategies). Push the B and C buttons
+  simultaneously to summon the Striker at any time during a fight (up to five
+  times in a single match), but don't go nuts! Using the Striker at the right time
+  is the key to victory!
+  .
+  INCREASE YOUR POWER GAUGE ENERGY\n
+  Increasing Power Gauge energy above a certain point lets players stockpile up to
+  three separate Power Gauges. When gauges are sufficiently stockpiled, use them
+  to activate Super Special Moves and awesome feats like the Guard Cancel
+  Emergency Evasion and Guard Cancel Blow-Away Attack.
+  .
+  SELECT YOUR POWER UP MODE\n
+  Use up to three power gauges at once to enter the timed Power Up Mode! There are
+  two types of Power Up Modes to select from by entering special button commands:
+  Counter Mode (press A + B + C to use Super Special Moves whenever you want; can
+  also link normal special moves for Super Cancellation Attacks) or Armor Mode
+  (press B + C + D to increase your defensive power significantly; Super Special
+  Moves cannot be used during this mode).
+release: 1999-09-23
+players: 2
+x-id: 37596
+
+
+game: The Last Blade
+file: lastblad.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  Choose one of several characters to play with, each with their own unique moves
+  and special attacks. Each stage in the game has two battles, where the object of
+  each is to drain your opponent's energy in order to complete the battle, and you
+  will complete the stage if you do this twice. If there is a draw, then a third
+  battle is then played. There is a time limit, and when this expires, the player
+  with the most energy wins the battle.
+release: 1998-01-29
+players: 2
+x-id: 37599
+
+
+game: The Last Blade 2
+file: lastbld2.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  The Last Blade 2: Heart of the Samurai is a 2D fighting game which features
+  anime-style characters that fight each other with swords, clubs, and even
+  fishing poles. These characters pull off their special moves with that
+  'quarter-circle-to-half-circle' and 'double-half-circle' controller motions,
+  reminiscent of Street Fighter.
+release: 1999-01-28
+players: 2
+x-id: 37600
+
+
+game: Last Resort
+file: lresort.zip
+developer: SNK
+publisher: SNK
+genre: Shoot'em Up, Shoot'em Up / Horizontal
+description:
+  Last Resort is a 1-2 player horizontal shooter game where you pilot a spacecraft
+  across horizontally scrolling cityscapes and wastelands, while destroying hordes
+  of enemy spacecraft, either metallic or organic, including huge mid- and
+  end-level guardians. Getting power-up pods provide the craft with a movable
+  drone which can be charged up and fired or locked into position and used as an
+  extra gun or 'battering ram'/shield. A clone of R-Type (both one and two), but
+  with much improved graphics and sound
+release: 1992-04-24
+players: 2
+x-id: 13957
+
+
+game: Matrimelee
+file: matrim.zip
+developer: Noise Factory
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  The king of certain country wants to find a worthy successor for the throne and
+  the ideal husband for his little daughter (or a beautiful and strong woman for
+  his older son). So he holds a fighting tournament where the prize is the hand of
+  the princess and the throne succession.
+release: 2003-05-29
+players: 2
+x-id: 37914
+
+
+game: Metal Slug - Super Vehicle-001
+file: mslug.zip
+developer: Nazca Corporation
+publisher: SNK
+genre: Shooter, Shooter / Run And Gun, Platform, Platform / Shooter Scrolling
+description:
+  Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.
+  .
+  The player(s) takes the role of a soldier (or two) and fights a gigantic army.
+  Every level consists of running forward blasting anything that moves, while
+  collecting power-ups along the way (there's also a wide selection of weaponry in
+  the game). In the end of each level the player goes up against one gigantic
+  boss.
+  .
+  The PlayStation port introduces some extra features: there is a combat school
+  where the player may fight with other players for the best time on each level
+  and an art gallery.
+release: 1996-05-24
+players: 2
+x-id: 37604
+
+
+game: Metal Slug 2 - Super Vehicle-001/II
+file: mslug2.zip
+developer: SNK
+publisher: SNK
+genre: Shooter, Shooter / Run And Gun, Platform, Platform / Shooter Scrolling
+description:
+  As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his
+  henchman. To do this, you must defeat various enemies that get in your way.
+  Throughout the game, you can collect new weapons including the Heavy Machine
+  Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor
+  Piercer. Also scattered throughout the game, you can ride in  four different
+  vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and
+  SlugNoid. By using these vehicles, you can cause awesome destruction against
+  Morden's evil army. Other items such as energy, extra ammunition, and food (eat
+  too much and your player will gain weight) are also found throughout the game.
+release: 1998-04-02
+players: 2
+x-id: 37605
+
+
+game: Metal Slug 3
+file: mslug3.zip
+developer: SNK
+publisher: SNK
+genre: Shooter, Shooter / Run And Gun, Platform, Platform / Shooter Scrolling
+description:
+  In the third installment of the Metal Slug series, General Morden is back and he
+  plans to establish a new world order. You guide one of the heroes: Marco, Tarma,
+  Eri or Fio as they blast their way through sidescrolling levels with a unique
+  theme, filled with countless enemies and difficult bosses. You have to free
+  hostages and you can ride bizarre vehicles such as camels, elephants, tanks and
+  robots.
+  .
+  In the Xbox version, additional game modes, such as Storming the Mothership and
+  Chubby Isle Paradiso, can be unlocked upon completing the five arcade stages. A
+  co-op mode has been included, but no online multiplayer. The only Xbox Live
+  feature available allows you to compare singleplayer scores.
+release: 2001-09-17
+players: 2
+x-id: 13852
+
+
+game: Metal Slug 4
+file: mslug4.zip
+developer: MEGA Enterprise
+publisher: SNK
+genre: Shooter, Shooter / Run And Gun, Platform, Platform / Shooter Scrolling
+description:
+  The 5th episode of the most famous arcade-shooting-series comes bringing the
+  unaltered classic gameplay, a new weapon, 6 new vehicles as well as 2 new
+  soldiers for the pantheon. The most notable introduction to the series is the
+  Metalish System, giving to the player a new possibility to score more points:
+  after pick up certain shield-shape emblems, a timer bar will be displayed at the
+  top of the screen. During this time, you must to shoot rapidly as many enemies
+  as possible and, depending on your acting, you will receive a corresponding
+  badge bonus that will be added to your score after completing it. When you die,
+  the bonus wears off.
+release: 2002-06-12
+players: 2
+x-id: 37606
+
+
+game: Metal Slug 5
+file: mslug5.zip
+developer: SNK
+publisher: SNK
+genre: Shooter, Shooter / Run And Gun, Platform, Platform / Shooter Scrolling
+description:
+  The latest installment of the most famous arcade-shooting series brings a lot of
+  changes: this time, you will not face Morden's army like in the previous games,
+  but with a new group of enemies that composes the already mentioned Ptolemaic
+  Army. More content in this title, 3 guns and 2 vehicles from past games were
+  reincorporated, as well as all brand new stuff of 3 vehicles. The most important
+  addition is a sliding move: pressing the B Button when ducking will make your
+  character slide for a short time in the ground. You are not be able to throw
+  grenades, but your gun can be fired normally.
+release: 2004-02-17
+players: 2
+x-id: 13871
+
+
+game: Metal Slug X - Super Vehicle-001
+file: mslugx.zip
+developer: SNK
+publisher: SNK
+genre: Shooter, Shooter / Run And Gun, Shoot'em Up, Shoot'em Up / Horizontal, Platform, Platform / Shooter Scrolling
+description:
+  Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter
+  the swarms of oncoming enemies with triple the firepower (compared with past SNK
+  games). A festival of dazzling destruction, take on the Metal Slug world, if you
+  dare!
+release: 1999-05-27
+players: 2
+x-id: 37607
+
+
+game: Mutation Nation
+file: mutnat.zip
+developer: SNK
+publisher: SNK
+genre: Beat'em Up
+description:
+  The Slum... an area of town completely forgotten. No one could imagine the
+  cruelness suffered by innocent people who were transformed into horrible mutant
+  creatures by genetic experiments. They hovered everywhere and completely took
+  control of the town.
+  .
+  Mutation Nation is a 1-2 player action game where you must control your hero and
+  beat up any mutant that gets in your way, by either using your fists or one of
+  four special attacks. A boss at the end of each area needs to be defeated if you
+  want to proceed further through the game.
+release: 1992-04-17
+players: 2
+x-id: 13896
+
+
+game: Ninja Commando
+file: ncommand.zip
+developer: ADK
+publisher: SNK
+genre: Shoot'em Up
+description:
+  The Mars Corporation has caused a problem in the time continuum, and it's up to
+  the Ninja Commandos to go after Spider, leader of the MC, and stop his evil
+  work.
+  .
+  As one of three Ninja Commandos, you must fight your opponents through different
+  time periods, such as The Primitive Age, The Egyptian Era, and the Japanese
+  Civil War Era. Each of the Ninja Commandos have their own specific style of
+  attack and a special "ninja trick" super power. Boxes and other storage units
+  can be broken to reveal power-ups that upgrade your weapons. The bosses are
+  super-powered historical figures and include a dinosaur, a medieval samurai, an
+  Egyptian pharaoh, etc. Cut-scenes occur between the different time periods.
+release: 1992-05-29
+players: 2
+x-id: 13934
+
+
+game: Neo Bomberman
+file: neobombe.zip
+developer: SNK
+publisher: Hudson
+genre: Action, Action / Labyrinth
+description:
+  As Bomberman, you must kill all the enemies in the level before proceeding to
+  the next. To do this, you clear a path of blocks by setting bombs that will
+  detonate a few seconds later, and then use the bombs to wipe out enemies. Some
+  blocks will uncover power-ups, and depending on which ones you collect, you will
+  receive more bombs, more lives, more time, manual bomb detonation, expanded
+  blast zone, and the ability to move faster. In some levels some blocks will
+  reveal eggs that you can hatch to produce a bird that you can ride on and allows
+  you to take an additional hit from an enemy or bomb blast without losing a life.
+release: 1997-01-01
+players: 4
+x-id: 13861
+
+
+
+game: Ninja Master's: Haō Ninpō Chō
+file: ninjamas.zip
+developer: ADK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  Ninja Master's, is set in the fictional land of "Zipangu". Players can select
+  from 10 different ninjas and warriors with which to test their might. The main
+  feature of this game is the ability for each character to use a wide variety of
+  weapons. Also, as each character's Super Attacks change depending on whether
+  they are armed or unarmed, the player needs to respond differently according to
+  the situation. Damage increases with respect to the Super Power Gauge. There are
+  also many must-see deadly techniques like "Super Death Blow", "Ultimate Super
+  Mode", "Dark Super Power" and "Dark Combo!
+release: 1996-06-28
+players: 2
+x-id: 37612
+
+
+game: Nightmare in the Dark
+file: nitd.zip
+developer: SNK
+publisher: SNK
+genre: Platform / Run Jump, Platform
+description:
+  This was an ancient story when people still believed in witchcraft.
+  .
+  There lived one gravedigger at a very small village in a remote region. He lived
+  a quiet, solitary life in a corner of the cemetery. He kept away from the
+  village people due to his very ugly appearance. One day, he found the graves
+  were ransacked and some corpses were stolen. He didn't want the village people
+  to find out, so he decided to eliminate the grave burglars by himself. Thus, he
+  patrolled the cemetery every night.
+  .
+  There are five stages with five levels each, and each one of them has you
+  throwing fireballs at ghouls, ghosts, goblins, and zombies. When you keep
+  throwing fireballs at these enemies, they will ignite into a giant fireball,
+  which you can throw at other enemies to kill them, and get the remaining
+  treasure before moving on to the next level. At the end of the fifth level, a
+  boss must be defeated in order to continue the game.
+release: 2001-01-27
+players: 2
+x-id: 13956
+
+
+game: Bust-A-Move Again
+file: pbobbl2n.zip
+developer: Taito
+publisher: Taito
+genre: Puzzle-Game / Throw, Puzzle-Game
+description:
+  Bub and Bob are back! Like in Tetris in reverse, you shoot bubbles at an array
+  of different-colored bubbles stuck in an ever descending ceiling, attempting to
+  match them up three by three to make them disappear. This edition contains both
+  puzzle challenges, multiplayer and normal progressive stages.
+release: 1995-01-01
+players: 2
+x-id: 37613
+
+
+game: Pochi and Nyaa
+file: pnyaa.zip
+developer: Aiky
+publisher: Taito
+genre: Puzzle-Game / Fall, Puzzle-Game
+description:
+  A nice puzzle game that is pretty similar to Super Puzzle Fighter but doesnt
+  reach the same quality level!
+release: 2003-12-24
+players: 2
+x-id: 37616
+
+
+game: Prehistoric Isle 2
+file: preisle2.zip
+developer: Yumekobo
+publisher: SNK
+genre: Shoot'em Up, Shoot'em Up / Horizontal
+description:
+  The sequel to "Prehistoric Isle in 1930", release more that 10 years after the
+  first one.
+release: 1999-09-27
+players: 2
+x-id: 13922
+
+
+game: Real Bout Fatal Fury
+file: rbff1.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  The fourth title of fighting Fatal Fury series. Now, you can destroy fight scene
+  objects and the "Fatal Fury 2" fighters are back forming this list: Terry
+  Bogard, Andy Bogard, Joe Higashi, Franco Bash, Mai Shiranui, Bob Wilson, Geese
+  Howard, Billy Kane, Hon-Fu, Ryuji Yamazaki, Sokaku Mochizuki, Blue Mary, Kim
+  Kaphwan, Jin Chonrei, Jin Chonshu and Duck King.
+release: 1996-01-26
+players: 2
+x-id: 37622
+
+
+game: Real Bout Fatal Fury 2 - The Newcomers
+file: rbff2.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  SNK's Fatal Fury fighting series reaches its 7th episode bringing a lot of
+  "innovations" and some significant changes, starting from characters: all the 20
+  fighters from previous game return with new artworks and battle stages
+  completely redrawn, as well as some remodeled (or new) moves.
+  .
+  The traditional fighting system comes with sensible modifications, like the
+  removal of both "Rank System" (SSS, SS, S, AAA etc.) and ground breakable
+  objects. The match system using 2 battle plans (foreground/background) remains
+  semi-intact, because now some battle fields (like Cheng Sinzan's stage) uses a
+  single plane, forcing the players to use only the basic defense to avoid
+  attacks.
+  .
+  But the main addition of this title (and the reason for subtitle "The
+  Newcomers") are 2 new characters entering for Fatal Fury's main cast: Rick
+  Strowd, a mysterious fighter with a particular fighting style and Li Xiangfei, a
+  young female Chinese martial arts fighter.
+release: 1998-04-29
+players: 2
+x-id: 37623
+
+
+game: Real Bout Fatal Fury Special
+file: rbffspec.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  It was the sequel of Real Bout Fatal Fury, with which sixth delivery of the
+  series was arrived at his, in this we had 20 characters (Terry Bogard, Andy
+  Bogard, Joe Higashi, Mai Shiranui, Tung Fu Rue, Cheng Chinzan, Laurence Blood,
+  Wolfgang Krauser, Duck King, Kim Kaphwan, Blue Mary, Hon-Fu, Bob Wilson,
+  Mochizuki Sokaku, Franco Bash, Ryuji Yamazaki, Jin Chonshu, Jin Chonrei, Billy
+  Kane and Geese Howard) and their aspects are 100% remodeled.\n
+  Also, the game maintains the capacity to destroy some things of the fight zone.
+release: 1997-02-28
+players: 2
+x-id: 37624
+
+
+game: Robo Army
+file: roboarmy.zip
+developer: SNK
+publisher: SNK
+genre: Beat'em Up
+description:
+  A mad scientist decides to create an army of robots to destroy the city, capture
+  all the citizens, and use their brains for more robots to take over the world.
+  You control one of two robots who use its fists and special attacks to take on
+  the army throughout a jungle stage and various buildings in the destroyed city.
+  Robots and robot dogs sometimes leave arms or metal bars that can be used as
+  weapons. At the end of each area, you need to defeat a boss in order to proceed
+  to the next area.
+release: 1991-12-20
+players: 2
+x-id: 13918
+
+
+game: Rage of the Dragons
+file: rotd.zip
+developer: Evoga / Playmore
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  Originally designed by Evoga to be a sequel to the 1995 fighting game Double
+  Dragon (changing it to a homage after failing to acquire the intellectual rights
+  to the series), Rage of the Dragons is a 2-on-2 tag-team fighting game with the
+  same art style as Noise Factory's earlier Sengoku 3.
+  .
+  The story involves various pairs of martial artists and those with supernatural
+  powers, with everybody having personal motivations for fighting in Sunshine
+  City. Some of these fighters harness the power of dragon spirits (with brothers
+  Billy and Jimmy Lewis controlling the Blue and Red Dragons and main antagonist
+  Johann controlling the Black Dragon).
+release: 2002-09-20
+players: 2
+x-id: 37626
+
+
+game: Strikers 1945 Plus
+file: s1945p.zip
+developer: Psikyo
+publisher: Psikyo
+genre: Shoot'em Up / Vertical, Shoot'em Up
+description:
+  The player chooses one of six planes or can opt for a random choice. The first
+  four stages are in random order, while the last four are sequential. Players
+  collect weapon powerups, bombs, and gold bars for points. Each plane has a
+  unique "supershot" which is charged by damaging enemies and fired by holding
+  then releasing the fire button. Supershots can be stored, although the number
+  varies from plane to plane. Using a bomb results in a large friendly fighter
+  swooping onto the screen and blocking shots while returning fire for a few
+  seconds.
+  .
+  After the player beats the final boss, the game starts again from the beginning,
+  albeit at a much higher difficulty level. All level are similar to the ones in
+  Strikers 1945 II. Only one of the four bosses that are randomly chosen and the
+  sixth boss is changed.
+release: 1999-12-24
+players: 2
+x-id: 37627
+
+
+game: Samurai Shodown
+file: samsho.zip
+developer: SNK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion.
+  Little does anyone know that Amakusa is really a servant of the evil Ambrosia,
+  who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.\n
+  Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor
+  of destroying Amakusa, and fulfilling a mission.
+release: 1993-08-11
+players: 2
+x-id: 37629
+
+
+game: Samurai Shodown II
+file: samsho2.zip
+developer: SNK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  One of SNK's legendary fighting game series has made a return! In Samurai
+  Shodown II, you can take on one of the roles of 15 warriors as you fight your
+  way through the land to defeat the evil Mizuki! Slash, kick, and slice your
+  opponents in half...do whatever it takes...live by the sword, and die by its
+  blade.
+release: 1994-12-02
+players: 2
+x-id: 37630
+
+
+game: Samurai Shodown III
+file: samsho3.zip
+developer: SNK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  The 12 samurai (and ninja) elite are back, this time to answer the threat of the
+  demon Zankuro, Minazuki. The possessed swordsman has brutally slaughtered
+  innocents in his path, yet could not raise his blade to the cries of an innocent
+  baby. Vowing never to spill innocent blood again, he targets those who live by
+  the way of the sword...but now the hunter becomes the hunted. The third series
+  of Samurai Shodown introduces 2 different techniques for each character. The
+  "Slash" techniques are the original moves of the most of the characters whereas
+  the "Bust" techniques maybe the "darker" version of each character.
+release: 1995-12-01
+players: 2
+x-id: 37631
+
+
+game: Samurai Shodown IV - Amakusa's Revenge
+file: samsho4.zip
+developer: SNK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  Bringing a new breath to SNK's swordsman fighting series, this 4th installment
+  marks the return of 3 classic characters (Yagyu Jubei, Charlotte and Tam Tam,
+  now with updated stuff), introduces 2 newcomers for the pantheon (the brothers
+  Sogetsu Kazama and Kazuki Kazama) and brings some new backgrounds.
+  .
+  In spite of these little improvements, the game preserved (and improved a lot)
+  many elements that did the previous one (Samurai Shodown III: Blades of Blood) a
+  quite popular title, like the dodge move and the chance to choose between two
+  versions of the fighter: the standard one and an alternative dark-styled one
+  (SLASH and BUST, respectively).
+  .
+  With the intention to provide more action in the battles, the "No Contest" Moves
+  were introduced: working in similar way (and under certain conditions) to the
+  many games of Mortal Kombat Series, your fighter will execute an
+  ultimate-slaughter move in a stunned opponent.
+release: 1996-01-01
+players: 2
+x-id: 37632
+
+
+game: Samurai Shodown V
+file: samsho5.zip
+developer: Yuki Enterprise
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  Seven years after the fourth game in the series, Samurai Shodown returns. In the
+  game's time frame, this is the earliest game, hence the Japanese title Samurai
+  Spirits Zero. It takes place in 1786 from January through the later summer. The
+  game is therefore considered a prequel to the series.
+  .
+  The overall gameplay was slightly altered. It is a little faster, and the
+  Slash/Bust system has been removed. Each character now has only one version, or
+  the Bust mode is simply replaced by a new character of very similar setup. Combo
+  slashes, sidestepping and fatalities have also vanished. The basic moves have
+  been modeled after the first games in the series. They consist of three types of
+  slashes, a single kick, and various dodge maneuvers similar to Samurai Shodown
+  II.
+  .
+  There are 24 characters, a familiar cast with some new faces. Unlike the
+  previous games, it is not possible to kill your opponent.
+release: 2003-12-11
+players: 2
+x-id: 37633
+
+
+game: Savage Reign
+file: savagere.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  The evil King Lion has crowned himself as the master of Fuun-Ken, a new style of
+  martial arts that includes throwing weapons in addition to hand-to-hand combat.
+  This does not sit well with the rest of the Fuun-Ken fighters around the world,
+  so they all decide to beat each other up in classic 2 round fights to decide who
+  gets to get down with King Lion himself.
+  .
+  Savage Reign is a one-on-one 2D fighter in which you select your character and
+  try to defeat all challengers using your basic attacks and special moves. The
+  game features 2 different horizontal planes to which the characters can freely
+  jump to in order to avoid attacks a la Fatal Fury. You cannot escape completely
+  however, as all characters have a throwing weapon they can use in different ways
+  to reach each other no matter where they are.
+release: 1995-05-26
+players: 2
+x-id: 37634
+
+
+game: Sengoku
+file: sengoku.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus, Beat'em Up
+description:
+  A 2D side-scrolling beat 'em up, Sengoku casts you and a friend as two renegade
+  fighters out to beat the crap out of the many assorted gangs that threaten the
+  post-apocalyptic cities of the future. Unfortunately for them they also get
+  caught in a time-warping scheme caused by the evil Nobunaga who attempts to
+  invade the time period with mythical warriors and evil creatures from the
+  Japanese sengoku period.
+  .
+  The game thus takes you from the city to a spirit-realm from time to time, in
+  which you must fight all sorts of Japanese mythical figures, and release three
+  haunted spirits that can aid you in your battle. Collecting orbs from defeated
+  enemies allows you heal up, gain weapons and even energy attacks and also summon
+  the warrior forms of the spirits you released, which change your character's
+  form and give you a new collection of attacks and powers.
+release: 1991-07-01
+players: 2
+x-id: 13874
+
+
+game: Sengoku 2
+file: sengoku2.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / 2D, Beat'em Up
+description:
+  A sequel to Sengoku, Sengoku 2 once again casts you as two street fighting
+  heroes caught in the midst of a supernatural attack by the undead forces of the
+  evil Nobunaga from the Japanese sengoku period, although this time the game
+  warps you through several time periods and locations to fight evil, from feudal
+  Japan to WWII Europe.
+  .
+  As in the original, the game plays as a standard 2D side-scrolling beat 'em up,
+  in which you have to proceed through each stage killing all enemies that cross
+  your path and defeating the stage boss to proceed. New for the sequel is the
+  inclusion of swords as your default weapons, which now feature both high and low
+  attacks, as well as a block move that allows you to parry enemy attacks.
+  Collecting orbs gives you weapon upgrades and energy attacks, as well as the
+  ability to morph into any of the three spirits released in the original which
+  give you a new arsenal of moves and powers.
+release: 1993-04-09
+players: 2
+x-id: 37636
+
+
+game: Sengoku 3
+file: sengoku3.zip
+developer: Noise Factory
+publisher: SNK
+genre: Fight, Fight / 2D, Beat'em Up
+description:
+  The third game in the Sengoku series of beat 'em ups, Sengoku 3 once again pits
+  you and a friend against the undead forces of Nobunaga, however this time you
+  can freely select from a group of different characters each with their own
+  weapons and abilities, as well as choose which location in the world (or level)
+  to tackle whenever you want.
+  .
+  The game incorporates a more complex fighting system similar to a one-on-one
+  fighting game, by giving players different attack buttons, special moves based
+  on directional inputs, combos and even a super bar used to unleash devastating
+  super moves. You cannot change weapons or transform into other characters as in
+  the previous games, but you can acquire different ranged weapons for additional
+  attacks as well as unlock certain bosses to increase your available characters.
+release: 2001-10-25
+players: 2
+x-id: 37637
+
+
+game: Shock Troopers : 2nd Squad
+file: shocktr2.zip
+developer: Saurus
+publisher: SNK
+genre: Shooter, Shooter / Run And Gun, Shoot'em Up
+description:
+  As one of four playable characters each with unique methods of attack and
+  power-ups, go through the level and destroy any enemies that get in your way,
+  and defeat the boss at the end of that area. When you have completed the first
+  area, you need to select a path to continue the game on.
+  .
+  The second game in the Shock Troopers series enables shot locking, close
+  proximity attacks, and evasive maneuvers allowing for flexible operation. In
+  addition to the four characters, versatile modes of attack are featured using
+  powerful vehicles and special shots. Letters that make up certain keywords can
+  be collected throughout the game, and by collecting each letter in the keyword,
+  you will receive a high score.
+release: 1998-01-01
+players: 2
+x-id: 37638
+
+
+game: Shock Troopers
+file: shocktro.zip
+developer: Saurus
+publisher: SNK
+genre: Shooter, Shooter / Run And Gun, Shoot'em Up
+description:
+  Shock Troopers is a 1-2 player game where players select one of eight characters
+  to play as. Each character has their own attack. Players also have to choose one
+  of three routes to take. The object of the game is to go toward the end of the
+  level and defeat the end-of-level boss, which is usually a huge vehicle. Crates
+  that are scattered throughout the levels can be broken into to reveal new
+  weapons and power-ups.
+  .
+  There is a team mode where players have to select three characters. The
+  characters can be switched on-the-fly during gameplay, which is useful if one of
+  them is badly injured. Players can use the other teammates until life-ups can be
+  found.
+release: 1997-11-11
+players: 2
+x-id: 37639
+
+
+game: Spin Master
+file: spinmast.zip
+developer: Data East
+publisher: Data East
+genre: Platform / Shooter Scrolling, Platform
+description:
+  An evil doctor has kidnapped John and Tom's friend, Mary, and has stolen their
+  treasure map. Rescuing Mary and getting back all pieces of the map takes them
+  through 5 levels of arcade-style Jump'n Shoot-action.
+  .
+  There are several weapons to acquire, ranging from a yo-yo (the standard weapon)
+  to bombs, icicles, missiles and more. Weapons differ in range, shooting
+  frequency, and power, and can be shot in all directions. Each weapon also has a
+  unique chargeable attack as well as a super-attack (which uses up one
+  bomb-symbol).
+  .
+  It is also possible to jump on enemies or perform a sliding attack.
+release: 1993-01-01
+players: 2
+x-id: 37643
+
+
+game: Street Slam
+file: strhoop.zip
+developer: Data East
+publisher: Data East
+genre: Sports / Basketball, Sports
+description:
+  Which team is the best at 3-on-3? Choose from ten countries to find out. Shots
+  vary according to the shooting distance. Fake dunk, aloof - a variety of
+  techniques to choose from! Speedy! Powerful! Move your body to hip hoppin' rap
+  music. When the power gauge reaches its max, Super Dunk sparks!
+release: 1994-01-01
+players: 2
+x-id: 37649
+
+
+game: SVC Chaos - SNK Vs. Capcom
+file: svc.zip
+developer: SNK
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  SVC Chaos: SNK vs. Capcom on Neo Geo is a fighting game featuring the warriors
+  of the two famous series Street Fighter and King of Fighters. The game offers an
+  arcade mode where one follows the story of his hero, as well as modes versus,
+  challenge and survival.
+release: 2003-11-13
+players: 2
+x-id: 13853
+
+
+game: Top Hunter: Roddy & Cathy
+file: tophuntr.zip
+developer: SNK
+publisher: SNK
+genre: Platform / Fighter Scrolling, Platform
+description:
+  Clean up the Space Pirates! Time: The age of space colonialism. The dreaded
+  Klaptons are on the loose, turning peaceful settlements into ghost towns.
+  Searching for the price on the Klapton's heads come the cosmic bounty hunters
+  RODDY and CATHY. Do these two have what it takes to save the universe? Can they
+  work together without competing for the rewards themselves? Their fate, and the
+  fate of the free universe is IN YOUR HANDS - the legendary team known as TOP
+  HUNTER!
+release: 1994-01-01
+players: 2
+x-id: 37650
+
+
+game: Twinkle Star Sprites
+file: twinspri.zip
+developer: ADK
+publisher: SNK
+genre: Shoot'em Up, Shoot'em Up / Vertical
+description: Competitive shooter with flavors of Galaga, Fighting Games, and Sailor Moon.
+release: 1997-01-31
+players: 2
+x-id: 37652
+
+
+game: Waku Waku 7
+file: wakuwak7.zip
+developer: Sunsoft
+publisher: SNK
+genre: Fight / Versus, Fight
+description:
+  The seven magical Waku Waku balls have surfaced once again and the few that know
+  of their existence decide to battle against each other in order to collect them
+  all. If they are able to defeat the powerful monster enslaved in them, the Waku
+  Waku balls will grant the lucky victor whatever wish they desire. The game was
+  created as a parody of animé series in general, WW7 pools together all the
+  mainstays of the genre and has them fight against each other. From furry
+  catgirls and effeminate, super-cool elfs to cute pokémon-like creatures and dumb
+  and loud heroes.
+release: 1996-01-01
+players: 2
+x-id: 13947
+
+
+game: Zed Blade
+file: zedblade.zip
+developer: Saurus
+publisher: SNK
+genre: Shoot'em Up / Horizontal, Shoot'em Up
+description:
+  You and/or a friend must choose one of three characters to play as, each with
+  different speeds at which they control their ships. Then select three weapons to
+  use for the front and back of your ship. During play, you must travel to every
+  planet in the solar system, and defeat the various enemy ships and the boss near
+  the end of the planet. Your weapons can be upgraded during the battle, and you
+  can also collect HyperBombs if you want to do maximum damage. Contains a nice
+  soundtrack reminiscent of early 1990s "rave" music.
+release: 1994-09-13
+players: 2
+x-id: 37657
+

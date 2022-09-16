@@ -1,51 +1,89 @@
 const fs = require('fs');
 const readline = require('readline');
 
-const TXT = 'D:\\Game\\pegasus\\list.txt'
+// const TXT = './demo.txt'
+const TXT = './demo2.txt'
 
-const rl = readline.createInterface({
-  input: fs.createReadStream(TXT),
-  crlfDelay: Infinity
-});
+const metaString = fs.readFileSync(TXT, 'utf8');
 
-const list = []
-let item
+const META_KEYS = ['game', 'file', 'developer', 'publisher', 'genre', 'description', 'release', 'players', 'x-id']
 
-const keys = ['game', 'file', 'description']
+// console.log(metaString)
 
-async function processLineByLine() {
-  const fileStream = fs.createReadStream(TXT);
+// const splitList = metaString.split('x-id:')
+const splitList = metaString.split('\r\n\r\n')
+// console.log(splitList)
 
-  const rl = readline.createInterface({
-    input: fileStream,
-    crlfDelay: Infinity
-  });
-  // 使用 crlfDelay 选项将 input.txt 中的所有 CR LF 实例（'\r\n'）识别为单个换行符。
+const gameMetaStringList = splitList.filter(str=>{
+  return str.indexOf('game:') > -1
+})
 
-  for await (const line of rl) {
-    // txt 中的每一行在这里将会被连续地用作 `line`。
-    keys.forEach(key => {
-      const _index = line.indexOf(key + ': ')
-      if (_index >= 0) {
-        const val = line.slice(key.length + 1, line.length).trim()
-        if (key === 'game') {
-          item = {}
+// console.log(gameMetaStringList)
+
+
+const genSingleGame = (infoList) => {
+  const item = {}
+  let isReadingDesc = false
+  infoList.forEach(line => {
+    if (line.indexOf('description:') > -1) {
+      isReadingDesc = true
+      Object.assign(item, { description: '' })
+      const _m = line.split(':')
+      if (_m.length === 2) {
+        item.description += _m[1].trim()
+      }
+    } else {
+      const _m = line.split(':')
+      if (_m.length === 2) {
+        if (META_KEYS.includes(_m[0].trim())) {
+          isReadingDesc = false
+          if (item.description && item.description !== '') {
+            item.description = item.description.substring(0, item.description.length)
+          }
+          Object.assign(item, { [_m[0].trim()]: _m[1].trim() })
         }
-        console.log(key)
-        if (item) {
-          Object.assign(item, { [key]: val })
-        }
-
-        if (key === 'description') {
-          list.push(item)
+      } else {
+        if (line.trim() !== '') {
+          if (line.trim() === '.') {
+            item.description += '\n  .'
+          } else {
+            item.description += '\n  ' + line.trim()
+          }
         }
       }
-    })
-  }
-  console.log(list)
+    }
+  })
+  // console.log(JSON.stringify(item, null, 2))
+  return item
 }
 
-processLineByLine()
+const gameList = gameMetaStringList.map(str => {
+  const tempList = str.split('\r\n')
+  return genSingleGame(tempList)
+})
 
 
+const genMetaTxt = (gamelist) => {
+  let pegaTxt = ''
+  gamelist.forEach(game=>{
+    let gameSec = ''
+    Object.keys(game).forEach(key=>{
+      if (key === 'description') {
+        gameSec += `description:`
+        gameSec += `${game.description}\n`
+      } else {
+        gameSec += `${key}: ${game[key]}\n`
+      }
+    })
+    //排序名称
+    gameSec += `sort_title: ${game.game}`
+    pegaTxt += gameSec + '\r\n\r\n'
+  })
+  return pegaTxt
+}
+
+const outTxt = genMetaTxt(gameList)
+// console.log(outTxt)
+
+fs.writeFileSync('./out.txt', outTxt)
 
