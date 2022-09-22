@@ -328,83 +328,6 @@ players: 2
 x-id: 13920
 
 
-game: The King of Fighters 2000
-file: kof2000.zip
-developer: SNK
-publisher: SNK
-genre: Fight, Fight / Versus
-description:
-  The final King of Fighters game released by SNK in its original state, The King
-  of Fighters 2000 expands on the story and gameplay presented in The King of
-  Fighters '99. This year's tournament is sponsored by the Ikari Warriors in an
-  attempt to discover more about the NESTS organization, and to derail the plans
-  of potential NESTS agents K' and Maxima. Not everything is as straight-forward
-  as it usually is, however, and even the Ikari Warriors themselves are at risk of
-  being betrayed from within by the end of the tournament.
-release: 2000-01-01
-players: 2
-x-id: 13879
-
-
-game: The King of Fighters 2001
-file: kof2001.zip
-developer: SNK
-publisher: SNK
-genre: Fight, Fight / Versus
-description:
-  In this eighth installment of the King of Fighters series, ten different teams
-  once again battle it out in several countries to decide which team will be this
-  year's King of Fighters. However, the NESTS organization is once again standing
-  in the participant's way; they have deployed their own team of four fighters,
-  lead by two individuals of high-rank within NESTS: a man claiming to be the
-  original Zero and Igniz, the CEO of NESTS. The character roster has been updated
-  yet again for this release in the series.
-release: 2002-03-14
-players: 2
-x-id: 37591
-
-
-game: The King of Fighters 2002
-file: kof2002.zip
-developer: SNK
-publisher: SNK
-genre: Fight, Fight / Versus
-description:
-  The second plotless "dream match" in The King of Fighters series, this game
-  sports 39 normal characters and 5 hidden characters, some of whom haven't
-  appeared since KOF98. The King of Fighters 2002 also has five characters
-  exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King,
-  Geese Howard, "Riot of the Blood" Iori and Leopold Goenitz. Shingo and King are
-  available on all the non-Neo Geo systems, while Geese and the rest are only
-  available on the PS2 and X-Box platforms.
-  .
-  The gameplay system has also changed. The striker system and four-character
-  teams found in the last three KOF releases have been totally removed. In their
-  place are the old-school three man teams and the "Advanced system" from The King
-  of Fighters '97 and The King of Fighters '98.
-release: 2002-12-18
-players: 2
-x-id: 13857
-
-
-game: The King of Fighters 2003
-file: kof2003.zip
-developer: SNK
-publisher: SNK
-genre: Fight, Fight / Versus
-description:
-  Like The King of Fighters 2002, this game reverts back to the old 3-on-3 format
-  used from KOF '94 to KOF '98. A new feature to this game that old-school KOF
-  fans might have trouble getting used to is the new interchangeable team system.
-  You still pick three characters and decide your character order before a match,
-  but now you have the option to change to another character during a match. You
-  can change at any time during a match, but you cannot when two of your teammates
-  have been taken out, and only one character is left in reserve.
-release: 2004-03-18
-players: 2
-x-id: 13878
-
-
 game: The King of Fighters '94
 file: kof94.zip
 developer: SNK
@@ -552,6 +475,83 @@ description:
 release: 1999-09-23
 players: 2
 x-id: 37596
+
+
+game: The King of Fighters 2000
+file: kof2000.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  The final King of Fighters game released by SNK in its original state, The King
+  of Fighters 2000 expands on the story and gameplay presented in The King of
+  Fighters '99. This year's tournament is sponsored by the Ikari Warriors in an
+  attempt to discover more about the NESTS organization, and to derail the plans
+  of potential NESTS agents K' and Maxima. Not everything is as straight-forward
+  as it usually is, however, and even the Ikari Warriors themselves are at risk of
+  being betrayed from within by the end of the tournament.
+release: 2000-01-01
+players: 2
+x-id: 13879
+
+
+game: The King of Fighters 2001
+file: kof2001.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  In this eighth installment of the King of Fighters series, ten different teams
+  once again battle it out in several countries to decide which team will be this
+  year's King of Fighters. However, the NESTS organization is once again standing
+  in the participant's way; they have deployed their own team of four fighters,
+  lead by two individuals of high-rank within NESTS: a man claiming to be the
+  original Zero and Igniz, the CEO of NESTS. The character roster has been updated
+  yet again for this release in the series.
+release: 2002-03-14
+players: 2
+x-id: 37591
+
+
+game: The King of Fighters 2002
+file: kof2002.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  The second plotless "dream match" in The King of Fighters series, this game
+  sports 39 normal characters and 5 hidden characters, some of whom haven't
+  appeared since KOF98. The King of Fighters 2002 also has five characters
+  exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King,
+  Geese Howard, "Riot of the Blood" Iori and Leopold Goenitz. Shingo and King are
+  available on all the non-Neo Geo systems, while Geese and the rest are only
+  available on the PS2 and X-Box platforms.
+  .
+  The gameplay system has also changed. The striker system and four-character
+  teams found in the last three KOF releases have been totally removed. In their
+  place are the old-school three man teams and the "Advanced system" from The King
+  of Fighters '97 and The King of Fighters '98.
+release: 2002-12-18
+players: 2
+x-id: 13857
+
+
+game: The King of Fighters 2003
+file: kof2003.zip
+developer: SNK
+publisher: SNK
+genre: Fight, Fight / Versus
+description:
+  Like The King of Fighters 2002, this game reverts back to the old 3-on-3 format
+  used from KOF '94 to KOF '98. A new feature to this game that old-school KOF
+  fans might have trouble getting used to is the new interchangeable team system.
+  You still pick three characters and decide your character order before a match,
+  but now you have the option to change to another character during a match. You
+  can change at any time during a match, but you cannot when two of your teammates
+  have been taken out, and only one character is left in reserve.
+release: 2004-03-18
+players: 2
+x-id: 13878
 
 
 game: The Last Blade
