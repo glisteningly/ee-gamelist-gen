@@ -1,5 +1,6 @@
 const fs = require('fs');
 const readline = require('readline');
+const _ = require('lodash')
 
 // const TXT = './demo.txt'
 const TXT = './demo2.txt'
@@ -14,7 +15,7 @@ const META_KEYS = ['game', 'file', 'developer', 'publisher', 'genre', 'descripti
 const splitList = metaString.split('\r\n\r\n')
 // console.log(splitList)
 
-const gameMetaStringList = splitList.filter(str=>{
+const gameMetaStringList = splitList.filter(str => {
   return str.indexOf('game:') > -1
 })
 
@@ -29,8 +30,8 @@ const genSingleGame = (infoList) => {
       isReadingDesc = true
       Object.assign(item, { description: '' })
       const _m = line.split(':')
-      if (_m.length === 2) {
-        item.description += _m[1].trim()
+      if (_m.length >= 2) {
+        item.description += line.replace('description:', '').trim()
       }
     } else {
       const _m = line.split(':')
@@ -57,26 +58,88 @@ const genSingleGame = (infoList) => {
   return item
 }
 
-const gameList = gameMetaStringList.map(str => {
-  const tempList = str.split('\r\n')
-  return genSingleGame(tempList)
-})
+const listOptimise = (list, translateJson, descJson) => {
+  // let log = ''
+// 处理字段
+  const out = list.map(g => {
+    const _game = {}
+    const rom = g.file.replace('.zip', '').trim()
+    const trans = _.find(translateJson, { rom: rom })
+    if (trans) {
+      let cnName = trans.cn
+      const index = trans.cn.indexOf('（')
+
+      let enName = trans.en
+      const index2 = trans.en.indexOf('(')
+
+      if (index > 1) {
+        cnName = cnName.substring(0, index).trim()
+        enName = enName.substring(0, index2).trim()
+      }
+      // Object.assign(g, { game: cnName.replaceAll(' ', ''), name: enName })
+      _game.game = cnName.replaceAll(' ', '')
+      _game.name = enName
+      //排序名称
+      _game.sortBy = enName
+    }
+
+    delete g.game
+    delete g.name
+    delete g.description
+
+    Object.assign(_game, g)
+
+    const desc = _.find(descJson, { file: g.file })
+    if (desc) {
+      _game.description = desc.description
+    }
+
+    return _game
+  })
+
+  return out
+}
+
+const genGameListFromTxt = (path) => {
+  const metaString = fs.readFileSync(path, 'utf8')
+  const splitList = metaString.split('\r\n\r\n')
+  const gameMetaStringList = splitList.filter(str => {
+    return str.indexOf('game:') > -1
+  })
+  return gameMetaStringList.map(str => {
+    const tempList = str.split('\r\n')
+    return genSingleGame(tempList)
+  })
+}
+
+const NEOGEO = require('./neogeo.json')
+
+const outGameList = genGameListFromTxt('./demo2.txt')
+const descList = genGameListFromTxt('./demo3.txt')
+
+
+const gameList = listOptimise(outGameList, NEOGEO, descList)
+
+fs.writeFileSync('./out2.json', JSON.stringify(descList, null, 2))
+
+// console.log(gameList)
+
+// fs.writeFileSync('./out.json', JSON.stringify(gameList, null, 2))
 
 
 const genMetaTxt = (gamelist) => {
   let pegaTxt = ''
-  gamelist.forEach(game=>{
+  gamelist.forEach(game => {
     let gameSec = ''
-    Object.keys(game).forEach(key=>{
+    Object.keys(game).forEach(key => {
+
       if (key === 'description') {
-        gameSec += `description:`
+        gameSec += `description: `
         gameSec += `${game.description}\n`
       } else {
         gameSec += `${key}: ${game[key]}\n`
       }
     })
-    //排序名称
-    gameSec += `sort_title: ${game.game}`
     pegaTxt += gameSec + '\r\n\r\n'
   })
   return pegaTxt
