@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "run": "node index.js"
+    "run": "node index.js",
+    "boxart": "node boxart.js"
   },
   "dependencies": {
     "debian-control": "^1.0.0",

@@ -3,24 +3,8 @@ const readline = require('readline');
 const _ = require('lodash')
 
 // const TXT = './demo.txt'
-const TXT = './demo2.txt'
-
-const metaString = fs.readFileSync(TXT, 'utf8');
 
 const META_KEYS = ['game', 'file', 'developer', 'publisher', 'genre', 'description', 'release', 'players', 'x-id']
-
-// console.log(metaString)
-
-// const splitList = metaString.split('x-id:')
-const splitList = metaString.split('\r\n\r\n')
-// console.log(splitList)
-
-const gameMetaStringList = splitList.filter(str => {
-  return str.indexOf('game:') > -1
-})
-
-// console.log(gameMetaStringList)
-
 
 const genSingleGame = (infoList) => {
   const item = {}
@@ -64,16 +48,19 @@ const listOptimise = (list, translateJson, descJson) => {
   const out = list.map(g => {
     const _game = {}
     const rom = g.file.replace('.zip', '').trim()
-    const trans = _.find(translateJson, { rom: rom })
+    const trans = _.find(translateJson, { rom })
+
     if (trans) {
       let cnName = trans.cn
       const index = trans.cn.indexOf('（')
+      if (index > 1) {
+        cnName = cnName.substring(0, index).trim()
+      }
 
       let enName = trans.en
       const index2 = trans.en.indexOf('(')
 
-      if (index > 1) {
-        cnName = cnName.substring(0, index).trim()
+      if (index2 > 1) {
         enName = enName.substring(0, index2).trim()
       }
       // Object.assign(g, { game: cnName.replaceAll(' ', ''), name: enName })
@@ -112,15 +99,24 @@ const genGameListFromTxt = (path) => {
   })
 }
 
-const NEOGEO = require('./neogeo.json')
+const SYS = 'NEOGEO'
+const TXT = `./pegasus_meta/${SYS}/metadata.pegasus_en.txt`
+const DESC = `./pegasus_meta/${SYS}/metadata.pegasus_cn.txt`
+const TRANS = require(`./pegasus_meta/${SYS}/trans.json`)
 
-const outGameList = genGameListFromTxt('./demo2.txt')
-const descList = genGameListFromTxt('./demo3.txt')
+// console.log(TRANS)
 
 
-const gameList = listOptimise(outGameList, NEOGEO, descList)
+const outGameList = genGameListFromTxt(TXT)
+// fs.writeFileSync('./out.json', JSON.stringify(outGameList, null, 2))
 
-fs.writeFileSync('./out2.json', JSON.stringify(descList, null, 2))
+
+const descList = genGameListFromTxt(DESC)
+
+
+const gameList = listOptimise(outGameList, TRANS, descList)
+
+// fs.writeFileSync('./gameList.json', JSON.stringify(gameList, null, 2))
 
 // console.log(gameList)
 
@@ -146,7 +142,8 @@ const genMetaTxt = (gamelist) => {
 }
 
 const outTxt = genMetaTxt(gameList)
-// console.log(outTxt)
-
-fs.writeFileSync('./out.txt', outTxt)
+const outPath = `./pegasus_meta/${SYS}/metadata.pegasus.txt`
+// // console.log(outTxt)
+//
+fs.writeFileSync(outPath, outTxt)
 

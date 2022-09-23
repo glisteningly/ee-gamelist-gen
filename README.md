@@ -1,2 +1,2 @@
-# ee-gamelist-gen
-emuelec gamelist generator
+# gamelist-tool
+pegasus gamelist generator

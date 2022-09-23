@@ -1,0 +1,78 @@
+game: 乔乔的奇妙冒险
+name: JoJo's Venture
+sortBy: JoJo's Venture
+file: jojo.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+release: 1998-01-01
+players: 2
+x-id: 37422
+description: 《JoJo的奇妙冒险》是日本漫画家荒木飞吕彦的漫画作品。1998年，CAPCOM在CPS3基板上推出JoJo的奇妙冒险的格斗游戏。游戏再现了原作漫画第三卷的风格，并再现了漫画的场景和情节。游戏系统上，JoJo继承了CAPCOM一向的严谨设定，并加入了“恶魔战士”的一些特性。必杀技都是CAPCOM作品的一贯使用方式，很容易让新手上手。超必杀KO对手时还以漫画形式表现出来。
+
+
+game: 乔乔的奇妙冒险-未来遗产
+name: JoJo no Kimyou na Bouken: Mirai e no Isan
+sortBy: JoJo no Kimyou na Bouken: Mirai e no Isan
+file: jojoba.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+release: 1999-01-01
+players: 2
+x-id: 37421
+description: 《JOJO的奇妙冒险 未来遗产》是CAPCOM推出的一款对战格斗街机游戏，前作为《JOJO的奇妙冒险》，改编自荒木飞吕彦的漫画《JOJO的奇妙冒险》。1999年CAPCOM推出原作的加强版，添加挑战模式以及新角色，细节有所改动。
+
+
+game: 街头霸王III-新的时代
+name: Street Fighter III: New Generation
+sortBy: Street Fighter III: New Generation
+file: sfiii.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+release: 1997-01-01
+players: 2
+x-id: 37425
+description: 1997年5月以新基板CPS3为坚实后盾的《街头霸王3》发售了。游戏保留了隆肯外其他角色全部为新面孔，甚至连第一男主角的地位也由来自美国的摔角壮汉阿利克斯来担当，另外，在游戏人物阴的头像上摁住开始键再选人，就可以选到游戏人物阳，所以本作共有11个可选人物。在系统方面《街头霸王ZERO2》以来的成功系统被全部抛弃，取而代之的是必杀技选择系统、大跳跃、空中追打、不意打和阻挡系统。由于采用了当时最尖端的CPS3机版，游戏画面与人物的动作达到了当时2D格斗游戏的顶点。各种打击效果达到了夸张的程度，可以说达到了看一看都过瘾的地步。但游戏的系统方面过于高深末测，丧失了街霸系列原有的亲和力。另外隆不是主角是从初代《街头霸王》开始的老FANS所无法接受的。
+
+
+game: 街头霸王III二度冲击-巨型攻击
+name: Street Fighter III 2nd Impact: Giant Attack
+sortBy: Street Fighter III 2nd Impact: Giant Attack
+file: sfiii2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+release: 1997-01-01
+players: 2
+x-id: 37423
+description: 本作增加人物包括：《快打旋风》的大巨人雨果、BOSS吉鲁的兄弟尤里安、隐藏人物豪鬼（达成一定通关条件后，豪鬼的选择头像就会出现）。另外，本作中还有隐藏BOSS真豪鬼（但跟《少年街霸2》一样，除非使用金手指，否则玩家无法选择） [2]  。这个版本对游戏平衡性再度做了调整，很多角色都增加了新招数。SUPER ART的选择也改为一回合选择一次，因此游戏在对战性上的调整使游戏的人气得到了提升，许多朋友就是从这时开始接触街霸3的。
+
+
+game: 街头霸王III三次攻击-未来战斗
+name: Street Fighter III 3rd Strike: Fight for the Future
+sortBy: Street Fighter III 3rd Strike: Fight for the Future
+file: sfiii3.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+release: 1999-05-12
+players: 2
+x-id: 37424
+description: 1999年5月在前作发售两年后登场，这次新增加的五名角色中最引人注目的便是初代女性格斗家—春丽的回归。春丽能力有了大幅度提高，造型也更加华丽，是游戏中最大的亮点。（上一作中的隐藏BOSS真豪鬼在本作中没有安排出场，但不知是何缘故，真豪鬼的人物资料依然存在于游戏内存之中，也就是说，正常情况下，真豪鬼永远不可能出现，但玩家使用金手指可以调出真豪鬼，只不过使用真豪鬼的过程中容易出现各种BUG。
+
+
+game: 赤色大地
+name: Red Earth
+sortBy: Red Earth
+file: redearth.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight /  Co-op-Fight
+release: 1996-11-21
+players: 2
+x-id: 37426
+description: 赤色大地，又名红色地球，是CPS3上的第一部游戏，1996年推出。这是一款极具创意的格斗游戏，他的舞台为中世纪剑与魔法的世界，每名角色都富有特色。系统上，它融合角色扮演游戏的升级元素，在一回合结束后会恢复部分HP之余，还会增加经验值，当经验值到达一定水平就能获得新的必杀技。可惜的是当年还没有用上记忆卡，只是用密码去记录能力，所以只要你知道密码，游戏固然很创新，但是玩久了也很单调，而且放到游戏机室，记住密码相当的麻烦。
+
+

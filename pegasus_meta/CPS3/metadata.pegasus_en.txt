@@ -1,0 +1,114 @@
+﻿game: JoJo no Kimyou na Bouken (USA 990128)
+file: jojo.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  JoJo's Venture is a 2D fighting game based off of the hit Japanese manga series
+  JoJo's Bizarre Adventure (famous for over-the-top violence, an intricate plot,
+  and numerous Western rock music references).
+release: 1998-01-01
+players: 2
+rating: 75%
+x-id: 37422
+
+
+
+game: JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)
+file: jojoba.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  Based on the Japanese manga/animé of the same name, JoJo's Bizarre Adventure is
+  a 2D fighting game from Capcom. Take on the role of one of 18 characters and
+  compete with your friends or take on the role of Jotaro "JoJo" Kujo and his
+  friends in the SUper Story Mode as they race to defeat the evil vampire, Dio
+  Brando, and save the world!
+release: 1999-01-01
+players: 2
+rating: 80%
+x-id: 37421
+
+
+
+game: Street Fighter III : New Generation (Euro 970204)
+file: sfiii.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  A New Generation of Street Fighters! Features larger characters sprites than
+  previous Street Fighter games with the smoothest, most detailed 2-D animation
+  ever made at the time of its release, a level of quality that is yet to be
+  matched by any other 2-D game outside of the Street Fighter III series as of
+  2004; some complain that too many things are animated and each animation
+  contains too many frames, slowing down the pace of the game.
+release: 1997-01-01
+players: 2
+rating: 85%
+x-id: 37425
+
+
+
+game: Street Fighter III 2nd Impact : Giant Attack (USA 970930)
+file: sfiii2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Street Fighter III - 2nd Impact: Giant Attack is the sequel to "Street Fighter
+  III - New Generation". Joining the existing Street Fighter III cast are Hugo,
+  Urien and recurring character Akuma (Gouki in the Japanese version). Other
+  improvements include a speed increase, new moves and several damage-related
+  tweaks.
+release: 1997-01-01
+players: 2
+rating: 85%
+x-id: 37423
+
+
+
+game: Street Fighter III 3rd Strike : Fight for the Future (Euro 990608)
+file: sfiii3.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  3rd Strike increased the character roster by adding five new characters, notably
+  including the legendary Chun-Li. New characters Remy, Makoto, Q, and Twelve were
+  also added, bringing the total number of playable fighters to twenty. Also
+  re-introduced was the fan-favourite 'Destroy the Car' bonus stage.
+  .
+  One of the new gameplay mechanics introduced in "3rd Strike" is the Guard Parry,
+  also known as the 'Red Parry', which allows players to parry during guard stun,
+  providing the timing is correct. Another new feature is after-match player
+  evaluations in which the winner of a two-person match is graded in Offense,
+  Defence, Tech and Extra. In single-player Arcade mode the player will always be
+  evaluated, even in event of a loss. The grades range from E (lowest) to MSF, or
+  Master Street Fighter (highest).
+release: 1999-05-12
+players: 2
+rating: 90%
+x-id: 37424
+
+
+
+game: Warzard (Euro 961121)
+file: redearth.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight /  Co-op-Fight
+description:
+  Red Earth take place in the year 1999 of an alternate Earth, follow the
+  adventures of four heroes as they take on an army of mythical monsters unleashed
+  by Scion to bring about the destruction of the world. Take your pick from Leo
+  the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja
+  as they fight their way across the globe in order to defeat Scion the iron
+  giant.
+release: 1996-11-21
+players: 2
+rating: 80%
+x-id: 37426
+
+

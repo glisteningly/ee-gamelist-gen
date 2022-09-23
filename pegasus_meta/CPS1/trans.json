@@ -1,0 +1,927 @@
+[
+  {
+    "rom": "1941",
+    "en": "1941: Counter Attack (World 900227)",
+    "cn": "1941 - 反击战（900227 世界版）"
+  },
+  {
+    "rom": "1941j",
+    "en": "1941: Counter Attack (Japan)",
+    "cn": "1941 - 反击战（日版）"
+  },
+  {
+    "rom": "1941r1",
+    "en": "1941: Counter Attack (World)",
+    "cn": "1941 - 反击战（世界版）"
+  },
+  {
+    "rom": "1941u",
+    "en": "1941: Counter Attack (USA 900227)",
+    "cn": "1941 - 反击战（900227 美版）"
+  },
+  {
+    "rom": "3wonders",
+    "en": "Three Wonders (World 910520)",
+    "cn": "三个奇迹（奇迹3 910520 世界版）"
+  },
+  {
+    "rom": "3wondersb",
+    "en": "Three Wonders (bootleg)",
+    "cn": "三个奇迹（盗版 第2套, 奇迹3 910520 世界版）"
+  },
+  {
+    "rom": "3wondersh",
+    "en": "Three Wonders (hack)",
+    "cn": "三个奇迹（盗版 第1套, 奇迹3 910520 世界版）"
+  },
+  {
+    "rom": "3wondersr1",
+    "en": "Three Wonders (World 910513)",
+    "cn": "三个奇迹（奇迹3 910513 世界版）"
+  },
+  {
+    "rom": "3wondersu",
+    "en": "Three Wonders (USA 910520)",
+    "cn": "三个奇迹（奇迹3 910520 美版）"
+  },
+  {
+    "rom": "area88",
+    "en": "Area 88 (Japan)",
+    "cn": "战区 88（日版）"
+  },
+  {
+    "rom": "area88r",
+    "en": "Area 88 (Japan Resale Ver.)",
+    "cn": "战区 88（日版 重发售版）"
+  },
+  {
+    "rom": "captcomm",
+    "en": "Captain Commando (World 911202)",
+    "cn": "名将（911202 世界版）"
+  },
+  {
+    "rom": "captcommb",
+    "en": "Captain Commando (bootleg)",
+    "cn": "名将（盗版 第1套, 911014 世界版）"
+  },
+  {
+    "rom": "captcommj",
+    "en": "Captain Commando (Japan 911202)",
+    "cn": "名将（911202 日版）"
+  },
+  {
+    "rom": "captcommjr1",
+    "en": "Captain Commando (Japan 910928)",
+    "cn": "名将（910928 日版）"
+  },
+  {
+    "rom": "captcommr1",
+    "en": "Captain Commando (World 911014)",
+    "cn": "名将（911014 世界版）"
+  },
+  {
+    "rom": "captcommu",
+    "en": "Captain Commando (USA 910928)",
+    "cn": "名将（910928 美版）"
+  },
+  {
+    "rom": "cawing",
+    "en": "Carrier Air Wing (World 901012)",
+    "cn": "雌虎战机（美国海军 901012 世界版）"
+  },
+  {
+    "rom": "cawingj",
+    "en": "U.S. Navy (Japan 901012)",
+    "cn": "雌虎战机（901012 日版）"
+  },
+  {
+    "rom": "cawingr1",
+    "en": "Carrier Air Wing (World 901009)",
+    "cn": "雌虎战机（美国海军 901009 世界版）"
+  },
+  {
+    "rom": "cawingu",
+    "en": "Carrier Air Wing (USA 901012)",
+    "cn": "雌虎战机（美国海军 901130 美版）"
+  },
+  {
+    "rom": "chikij",
+    "en": "Chiki Chiki Boys (Japan 900619)",
+    "cn": "双麒儿（900619 日版）"
+  },
+  {
+    "rom": "cworld2j",
+    "en": "Adventure Quiz Capcom World 2 (Japan 920611)",
+    "cn": "冒险问答 卡普空世界 2（920611 日版）"
+  },
+  {
+    "rom": "cworld2ja",
+    "en": "Adventure Quiz Capcom World 2 (Japan 920611, B-Board 90629B-3, no battery)",
+    "cn": "冒险问答 卡普空世界 2（日版 920611, B-Board 90629B-3, 无电池）"
+  },
+  {
+    "rom": "cworld2jb",
+    "en": "Adventure Quiz Capcom World 2 (Japan 920611, B-Board 91634B-2)",
+    "cn": "冒险问答 卡普空世界 2（日版 920611, B-Board 91634B-2）"
+  },
+  {
+    "rom": "daimakai",
+    "en": "Daimakaimura (Japan)",
+    "cn": "大魔界村（日版）"
+  },
+  {
+    "rom": "daimakair",
+    "en": "Daimakaimura (Japan Resale Ver.)",
+    "cn": "大魔界村（日版 重发售版）"
+  },
+  {
+    "rom": "dino",
+    "en": "Cadillacs and Dinosaurs (World 930201)",
+    "cn": "恐龙新世纪（930201 世界版）"
+  },
+  {
+    "rom": "dinohunt",
+    "en": "Dinosaur Hunter (Chinese bootleg of Cadillacs and Dinosaurs)",
+    "cn": "恐龙猎人（中国盗版, 930223 台湾版）"
+  },
+  {
+    "rom": "dinoj",
+    "en": "Cadillacs: Kyouryuu Shin Seiki (Japan 930201)",
+    "cn": "恐龙新世纪（凯迪拉克 930201 日版）"
+  },
+  {
+    "rom": "dinou",
+    "en": "Cadillacs and Dinosaurs (USA 930201)",
+    "cn": "恐龙新世纪（930201 美版）"
+  },
+  {
+    "rom": "dynwar",
+    "en": "Dynasty Wars (USA, B-Board 89624B-?)",
+    "cn": "王朝战争（美版 第1套）"
+  },
+  {
+    "rom": "dynwara",
+    "en": "Dynasty Wars (USA, B-Board 88622B-3)",
+    "cn": "王朝战争（美版 第2套）"
+  },
+  {
+    "rom": "dynwarj",
+    "en": "Tenchi wo Kurau (Japan)",
+    "cn": "吞食天地（日版）"
+  },
+  {
+    "rom": "dynwarjr",
+    "en": "Tenchi wo Kurau (Japan Resale Ver.)",
+    "cn": "吞食天地（日版 重发售版）"
+  },
+  {
+    "rom": "ffight",
+    "en": "Final Fight (World, set 1)",
+    "cn": "快打旋风（世界版, 第1套）"
+  },
+  {
+    "rom": "ffighta",
+    "en": "Final Fight (World, set 2)",
+    "cn": "快打旋风（世界版, 第2套）"
+  },
+  {
+    "rom": "ffightj",
+    "en": "Final Fight (Japan)",
+    "cn": "快打旋风（日版）"
+  },
+  {
+    "rom": "ffightj1",
+    "en": "Final Fight (Japan 900112)",
+    "cn": "快打旋风（900112 日版）"
+  },
+  {
+    "rom": "ffightj2",
+    "en": "Final Fight (Japan 900305)",
+    "cn": "快打旋风（900305 日版）"
+  },
+  {
+    "rom": "ffightj3",
+    "en": "Final Fight (Japan 900613)",
+    "cn": "快打旋风（900613 日版）"
+  },
+  {
+    "rom": "ffightjh",
+    "en": "Street Smart / Final Fight (Japan, hack)",
+    "cn": "快打旋风（日版, 修改版）"
+  },
+  {
+    "rom": "ffightu",
+    "en": "Final Fight (USA, set 1)",
+    "cn": "快打旋风（美版, 第1套）"
+  },
+  {
+    "rom": "ffightu1",
+    "en": "Final Fight (USA, set 2)",
+    "cn": "快打旋风（美版, 第2套）"
+  },
+  {
+    "rom": "ffightua",
+    "en": "Final Fight (USA 900112)",
+    "cn": "快打旋风（900112 美版）"
+  },
+  {
+    "rom": "ffightub",
+    "en": "Final Fight (USA 900424)",
+    "cn": "快打旋风（900424 美版）"
+  },
+  {
+    "rom": "ffightuc",
+    "en": "Final Fight (USA 900613)",
+    "cn": "快打旋风（900613 美版）"
+  },
+  {
+    "rom": "forgottn",
+    "en": "Forgotten Worlds (World, newer)",
+    "cn": "失落的世界（世界版, 较新版）"
+  },
+  {
+    "rom": "forgottna",
+    "en": "Forgotten Worlds (World)",
+    "cn": "失落的世界（世界版）"
+  },
+  {
+    "rom": "forgottnu",
+    "en": "Forgotten Worlds (USA, B-Board 88621B-2, Rev. C)",
+    "cn": "失落的世界（美版, B-Board 88621B-2, 修正版 C）"
+  },
+  {
+    "rom": "forgottnu1",
+    "en": "Forgotten Worlds (USA, B-Board 88618B-2, Rev. C)",
+    "cn": "失落的世界 美版C"
+  },
+  {
+    "rom": "forgottnua",
+    "en": "Forgotten Worlds (USA, B-Board 88618B-2, Rev. A)",
+    "cn": "失落的世界（美版, B-Board 88618B-2, 修正版 A）"
+  },
+  {
+    "rom": "forgottnuaa",
+    "en": "Forgotten Worlds (USA, B-Board 88618B-2, Rev. AA)",
+    "cn": "失落的世界（美版, B-Board 88618B-2, 修正版 AA）"
+  },
+  {
+    "rom": "ganbare",
+    "en": "Ganbare! Marine Kun (Japan 2K0411)",
+    "cn": "加油! 马林君（日籍舰艇 2K0411）"
+  },
+  {
+    "rom": "ghouls",
+    "en": "Ghouls'n Ghosts (World)",
+    "cn": "大魔界村（世界版）"
+  },
+  {
+    "rom": "ghoulsu",
+    "en": "Ghouls'n Ghosts (USA)",
+    "cn": "大魔界村（美版）"
+  },
+  {
+    "rom": "knights",
+    "en": "Knights of the Round (World 911127)",
+    "cn": "圆桌骑士（911127 世界版）"
+  },
+  {
+    "rom": "knightsj",
+    "en": "Knights of the Round (Japan 911127, B-Board 91634B-2)",
+    "cn": "圆桌骑士（911127 日版, B-Board 91634B-2）"
+  },
+  {
+    "rom": "knightsja",
+    "en": "Knights of the Round (Japan 911127, B-Board 89625B-1)",
+    "cn": "圆桌骑士（911127 日版, B-Board 89625B-1）"
+  },
+  {
+    "rom": "knightsu",
+    "en": "Knights of the Round (USA 911127)",
+    "cn": "圆桌骑士（911127 美版）"
+  },
+  {
+    "rom": "kod",
+    "en": "The King of Dragons (World 910805)",
+    "cn": "龙王战士（910805 世界版）"
+  },
+  {
+    "rom": "kodj",
+    "en": "The King of Dragons (Japan 910805, B-Board 90629B-3)",
+    "cn": "龙王战士（日版 910805, B-Board 90629B-3）"
+  },
+  {
+    "rom": "kodja",
+    "en": "The King of Dragons (Japan 910805, B-Board 89625B-1)",
+    "cn": "龙王战士（日版 910805, B-Board 89625B-1）"
+  },
+  {
+    "rom": "kodr1",
+    "en": "The King of Dragons (World 910711)",
+    "cn": "龙王战士（910711 世界版）"
+  },
+  {
+    "rom": "kodu",
+    "en": "The King of Dragons (USA 910910)",
+    "cn": "龙王战士（美版 910910）"
+  },
+  {
+    "rom": "lostwrld",
+    "en": "Lost Worlds (Japan)",
+    "cn": "失落的世界（日版）"
+  },
+  {
+    "rom": "lostwrldo",
+    "en": "Lost Worlds (Japan Old Ver.)",
+    "cn": "失落的世界（日版 旧版）"
+  },
+  {
+    "rom": "mbomberj",
+    "en": "Muscle Bomber: The Body Explosion (Japan 930713)",
+    "cn": "肌肉爆弹（930713 日版）"
+  },
+  {
+    "rom": "mbombrd",
+    "en": "Muscle Bomber Duo: Ultimate Team Battle (World 931206)",
+    "cn": "肌肉爆弹二重奏 - 最终之战（931206 世界版）"
+  },
+  {
+    "rom": "mbombrdj",
+    "en": "Muscle Bomber Duo: Heat Up Warriors (Japan 931206)",
+    "cn": "肌肉爆弹二重奏 - 热力战士（931206 日版）"
+  },
+  {
+    "rom": "megaman",
+    "en": "Mega Man: The Power Battle (CPS1, USA 951006)",
+    "cn": "洛克人 - 力量之战（951006 美版）"
+  },
+  {
+    "rom": "megamana",
+    "en": "Mega Man: The Power Battle (CPS1, Asia 951006)",
+    "cn": "洛克人 - 力量之战（951006 亚洲版）"
+  },
+  {
+    "rom": "mercs",
+    "en": "Mercs (World 900302)",
+    "cn": "佣兵（900302 世界版）"
+  },
+  {
+    "rom": "mercsj",
+    "en": "Senjou no Ookami II (Japan 900302)",
+    "cn": "战场之狼 II（战狼2 900302 日版）"
+  },
+  {
+    "rom": "mercsu",
+    "en": "Mercs (USA 900608)",
+    "cn": "佣兵（900608 美版）"
+  },
+  {
+    "rom": "mercsur1",
+    "en": "Mercs (USA 900302)",
+    "cn": "佣兵（900302 美版）"
+  },
+  {
+    "rom": "msword",
+    "en": "Magic Sword: Heroic Fantasy (World 900725)",
+    "cn": "魔法剑 - 英雄的幻想（25.07.1990 世界版）"
+  },
+  {
+    "rom": "mswordj",
+    "en": "Magic Sword: Heroic Fantasy (Japan 900623)",
+    "cn": "魔法剑（23.06.1990 日版）"
+  },
+  {
+    "rom": "mswordr1",
+    "en": "Magic Sword: Heroic Fantasy (World 900623)",
+    "cn": "魔法剑 - 英雄的幻想（23.06.1990 世界版）"
+  },
+  {
+    "rom": "mswordu",
+    "en": "Magic Sword: Heroic Fantasy (USA 900725)",
+    "cn": "魔法剑 - 英雄的幻想（25.07.1990 美版）"
+  },
+  {
+    "rom": "mtwins",
+    "en": "Mega Twins (World 900619)",
+    "cn": "双麒儿（900619 世界版）"
+  },
+  {
+    "rom": "nemo",
+    "en": "Nemo (World 901130)",
+    "cn": "梦幻冒险（90 11 30 世界版）"
+  },
+  {
+    "rom": "nemoj",
+    "en": "Nemo (Japan 901120)",
+    "cn": "梦幻冒险（90 11 20 日版）"
+  },
+  {
+    "rom": "nemor1",
+    "en": "Nemo (World 901109)",
+    "cn": "梦幻冒险（90 11 09 世界版）"
+  },
+  {
+    "rom": "pang3",
+    "en": "Pang! 3 (Euro 950601)",
+    "cn": "魔鬼气泡 3（950601 欧版）"
+  },
+  {
+    "rom": "pang3b",
+    "en": "Pang! 3 (bootleg)",
+    "cn": "魔鬼气泡 3（盗版 第1套, 950511 欧版）"
+  },
+  {
+    "rom": "pang3j",
+    "en": "Pang! 3: Kaitou Tachi no Karei na Gogo (Japan 950511)",
+    "cn": "魔鬼气泡 3 - 怪盗塔兹的华丽午后（950511 日版）"
+  },
+  {
+    "rom": "pang3r1",
+    "en": "Pang! 3 (Euro 950511)",
+    "cn": "魔鬼气泡 3（950511 欧版）"
+  },
+  {
+    "rom": "pnickj",
+    "en": "Pnickies (Japan 940608)",
+    "cn": "魔法方块（940608 日版）"
+  },
+  {
+    "rom": "pokonyan",
+    "en": "Pokonyan! Balloon (Japan 940322)",
+    "cn": "叮当猫（日版 940322）"
+  },
+  {
+    "rom": "punisher",
+    "en": "The Punisher (World 930422)",
+    "cn": "惩罚者（930422 世界版）"
+  },
+  {
+    "rom": "punisherbz",
+    "en": "Biaofeng Zhanjing (Chinese bootleg of The Punisher)",
+    "cn": "飙风战警（中国盗版）"
+  },
+  {
+    "rom": "punisherh",
+    "en": "The Punisher (Hispanic 930422)",
+    "cn": "惩罚者（930422 西班牙版）"
+  },
+  {
+    "rom": "punisherj",
+    "en": "The Punisher (Japan 930422)",
+    "cn": "惩罚者（930422 日版）"
+  },
+  {
+    "rom": "punisheru",
+    "en": "The Punisher (USA 930422)",
+    "cn": "惩罚者（930422 美版）"
+  },
+  {
+    "rom": "qad",
+    "en": "Quiz & Dragons: Capcom Quiz Game (USA 920701)",
+    "cn": "龙之迷题（卡普空益智游戏 920701 美版）"
+  },
+  {
+    "rom": "qadjr",
+    "en": "Quiz & Dragons: Capcom Quiz Game (Japan Resale Ver. 940921)",
+    "cn": "龙之迷题（940921 日版 重发售版）"
+  },
+  {
+    "rom": "qtono2j",
+    "en": "Quiz Tonosama no Yabou 2: Zenkoku-ban (Japan 950123)",
+    "cn": "殿样之野望 2 全国版问答（殿样2 950123 日版）"
+  },
+  {
+    "rom": "rockmanj",
+    "en": "Rockman: The Power Battle (CPS1, Japan 950922)",
+    "cn": "洛克人 - 力量之战（950922 日版）"
+  },
+  {
+    "rom": "sf2",
+    "en": "Street Fighter II: The World Warrior (World 910522)",
+    "cn": "街头霸王 II - 天下斗士（910522 世界版）"
+  },
+  {
+    "rom": "sf2acc",
+    "en": "Street Fighter II': Champion Edition (Accelerator!, bootleg, set 1)",
+    "cn": "街头霸王 II - 四大天王（加速器! 盗版 第1套, 920313 美版）"
+  },
+  {
+    "rom": "sf2acca",
+    "en": "Street Fighter II': Champion Edition (Accelerator!, bootleg, set 2)",
+    "cn": "街头霸王 II - 四大天王（加速器! 盗版 第2套, 920310）"
+  },
+  {
+    "rom": "sf2accp2",
+    "en": "Street Fighter II': Champion Edition (Accelerator Pt.II, bootleg)",
+    "cn": "街头霸王 II - 四大天王（加速器 Pt.II 盗版, 920313 Testron）"
+  },
+  {
+    "rom": "sf2amf",
+    "en": "Street Fighter II': Champion Edition (Alpha Magic-F, bootleg)",
+    "cn": "街头霸王 II - 四大天王（Alpha Magic-F 盗版 第1套, 920313 世界版）"
+  },
+  {
+    "rom": "sf2amf2",
+    "en": "Street Fighter II': Champion Edition (L735 Test Rom, bootleg)",
+    "cn": "街头霸王 II - 四大天王（Alpha Magic-F 盗版 第2套, 920313 世界版）"
+  },
+  {
+    "rom": "sf2bhh",
+    "en": "Street Fighter II': Champion Edition (Hung Hsi, bootleg)",
+    "cn": "街头霸王 II - 四大天王（Hungh-Hsi 盗版, 920313 台湾版）"
+  },
+  {
+    "rom": "sf2ce",
+    "en": "Street Fighter II': Champion Edition (World 920513)",
+    "cn": "街头霸王 II - 四大天王（街霸2' 920513 世界版）"
+  },
+  {
+    "rom": "sf2ceblp",
+    "en": "Street Fighter II': Champion Edition (protected bootleg on non-dash board)",
+    "cn": "街头霸王 2 - 四大天王（保护版 盗版于 non-dash 板）"
+  },
+  {
+    "rom": "sf2cebltw",
+    "en": "Street Fighter II': Champion Edition ('Taiwan' bootleg with PAL)",
+    "cn": "街头霸王 II - 四大天王（920313 PAL 台湾盗版）"
+  },
+  {
+    "rom": "sf2ceea",
+    "en": "Street Fighter II': Champion Edition (World 920313)",
+    "cn": "街头霸王 II - 四大天王（街霸2' 920313 世界版）"
+  },
+  {
+    "rom": "sf2ceja",
+    "en": "Street Fighter II': Champion Edition (Japan 920322)",
+    "cn": "街头霸王 II - 四大天王（街霸2' 920322 日版）"
+  },
+  {
+    "rom": "sf2cejb",
+    "en": "Street Fighter II': Champion Edition (Japan 920513)",
+    "cn": "街头霸王 II - 四大天王（街霸2' 920513 日版）"
+  },
+  {
+    "rom": "sf2cejc",
+    "en": "Street Fighter II': Champion Edition (Japan 920803)",
+    "cn": "街头霸王 II - 四大天王（街霸2' 920803 日版）"
+  },
+  {
+    "rom": "sf2ceua",
+    "en": "Street Fighter II': Champion Edition (USA 920313)",
+    "cn": "街头霸王 II - 四大天王（街霸2' 920313 美版）"
+  },
+  {
+    "rom": "sf2ceub",
+    "en": "Street Fighter II': Champion Edition (USA 920513)",
+    "cn": "街头霸王 II - 四大天王（街霸2' 920513 美版）"
+  },
+  {
+    "rom": "sf2ceuc",
+    "en": "Street Fighter II': Champion Edition (USA 920803)",
+    "cn": "街头霸王 II - 四大天王（街霸2' 920803 美版）"
+  },
+  {
+    "rom": "sf2dkot2",
+    "en": "Street Fighter II': Champion Edition (Double K.O. Turbo II, bootleg)",
+    "cn": "街头霸王 II - 四大天王（加倍 K.O. 加速 II 盗版, 902140 美版）"
+  },
+  {
+    "rom": "sf2dongb",
+    "en": "Street Fighter II': Champion Edition (Dongfang Bubai protection, bootleg)",
+    "cn": "街头霸王 II - 四大天王（东方不败保护版 盗版, 世界版 920313）"
+  },
+  {
+    "rom": "sf2eb",
+    "en": "Street Fighter II: The World Warrior (World 910214)",
+    "cn": "街头霸王 II - 天下斗士（910214 世界版）"
+  },
+  {
+    "rom": "sf2ebbl",
+    "en": "Street Fighter II: The World Warrior (TAB Austria, bootleg, set 1)",
+    "cn": "街头霸王 II - 天下斗士（TAB 奥地利盗版, 910214 世界版）"
+  },
+  {
+    "rom": "sf2ebbl2",
+    "en": "Street Fighter II: The World Warrior (TAB Austria, bootleg, set 3)",
+    "cn": "街头霸王 II - 天下斗士（TAB 奥地利盗版 第2套, 910214 世界版）"
+  },
+  {
+    "rom": "sf2ebbl3",
+    "en": "Street Fighter II: The World Warrior (TAB Austria, bootleg, set 4)",
+    "cn": "街头霸王 II - 天下斗士（TAB 奥地利盗版 第3套, 910214 世界版）"
+  },
+  {
+    "rom": "sf2ed",
+    "en": "Street Fighter II: The World Warrior (World 910318)",
+    "cn": "街头霸王 II - 天下斗士（910318 世界版）"
+  },
+  {
+    "rom": "sf2ee",
+    "en": "Street Fighter II: The World Warrior (World 910228)",
+    "cn": "街头霸王 II - 天下斗士（910228 世界版）"
+  },
+  {
+    "rom": "sf2hf",
+    "en": "Street Fighter II': Hyper Fighting (World 921209)",
+    "cn": "街头霸王 II - 战斗宣言（街霸2' T 921209 世界版）"
+  },
+  {
+    "rom": "sf2hfj",
+    "en": "Street Fighter II' Turbo: Hyper Fighting (Japan 921209)",
+    "cn": "街头霸王 II 加速版 - 战斗宣言（街霸2' T 921209 日版）"
+  },
+  {
+    "rom": "sf2hfu",
+    "en": "Street Fighter II': Hyper Fighting (USA 921209)",
+    "cn": "街头霸王 II - 战斗宣言（街霸2' T 921209 美版）"
+  },
+  {
+    "rom": "sf2j",
+    "en": "Street Fighter II: The World Warrior (Japan 911210)",
+    "cn": "街头霸王 II - 天下斗士（911210 日版, CPS-B-13）"
+  },
+  {
+    "rom": "sf2ja",
+    "en": "Street Fighter II: The World Warrior (Japan 910214)",
+    "cn": "街头霸王 II - 天下斗士（910214 日版）"
+  },
+  {
+    "rom": "sf2jc",
+    "en": "Street Fighter II: The World Warrior (Japan 910306)",
+    "cn": "街头霸王 II - 天下斗士（910306 日版）"
+  },
+  {
+    "rom": "sf2jf",
+    "en": "Street Fighter II: The World Warrior (Japan 910411)",
+    "cn": "街头霸王 II - 天下斗士（910411 日版）"
+  },
+  {
+    "rom": "sf2jh",
+    "en": "Street Fighter II: The World Warrior (Japan 910522)",
+    "cn": "街头霸王 II - 天下斗士（910522 日版）"
+  },
+  {
+    "rom": "sf2jl",
+    "en": "Street Fighter II: The World Warrior (Japan 920312)",
+    "cn": "街头霸王 II - 天下斗士（920312 日版）"
+  },
+  {
+    "rom": "sf2koryu",
+    "en": "Street Fighter II': Champion Edition (Xiang Long, Chinese bootleg)",
+    "cn": "街头霸王 II - 降龙（盗版 第1套, 811102 001）"
+  },
+  {
+    "rom": "sf2m10",
+    "en": "Street Fighter II': Champion Edition (M10, bootleg)",
+    "cn": "街头霸王 2 - 四大天王（M10, 盗版）"
+  },
+  {
+    "rom": "sf2m2",
+    "en": "Street Fighter II': Champion Edition (M2, bootleg)",
+    "cn": "街头霸王 2 - 四大天王（M2, 盗版）"
+  },
+  {
+    "rom": "sf2m3",
+    "en": "Street Fighter II': Champion Edition (M3, bootleg)",
+    "cn": "街头霸王 2 - 四大天王（M3, 盗版）"
+  },
+  {
+    "rom": "sf2m4",
+    "en": "Street Fighter II': Champion Edition (M4, bootleg)",
+    "cn": "街头霸王 2 - 四大天王（M4, 盗版）"
+  },
+  {
+    "rom": "sf2m5",
+    "en": "Street Fighter II': Champion Edition (M5, bootleg)",
+    "cn": "街头霸王 2 - 四大天王（M5, 盗版）"
+  },
+  {
+    "rom": "sf2m6",
+    "en": "Street Fighter II': Champion Edition (M6, bootleg)",
+    "cn": "街头霸王 2 - 四大天王（M6, 盗版）"
+  },
+  {
+    "rom": "sf2m7",
+    "en": "Street Fighter II': Champion Edition (M7, bootleg)",
+    "cn": "街头霸王 2 - 四大天王（M7, 盗版）"
+  },
+  {
+    "rom": "sf2m8",
+    "en": "Street Fighter II': Champion Edition (M8, bootleg)",
+    "cn": "街头霸王 2 - 四大天王（M8, 盗版）"
+  },
+  {
+    "rom": "sf2qp1",
+    "en": "Street Fighter II: The World Warrior (Quicken Pt-I, bootleg)",
+    "cn": "街头霸王 II - 天下斗士（加速 Pt-I 盗版, 910214 美版）"
+  },
+  {
+    "rom": "sf2rb",
+    "en": "Street Fighter II': Champion Edition (Rainbow, bootleg, set 1)",
+    "cn": "街头霸王 II - 四大天王（彩虹版 盗版 第1套, 920322 世界版）"
+  },
+  {
+    "rom": "sf2rb2",
+    "en": "Street Fighter II': Champion Edition (Rainbow, bootleg, set 2)",
+    "cn": "街头霸王 II - 四大天王（彩虹版 盗版 第2套, 920322 世界版）"
+  },
+  {
+    "rom": "sf2rb3",
+    "en": "Street Fighter II': Champion Edition (Rainbow, bootleg, set 3)",
+    "cn": "街头霸王 II - 四大天王（彩虹版 盗版 第3套, 920322 世界版）"
+  },
+  {
+    "rom": "sf2red",
+    "en": "Street Fighter II': Champion Edition (Red Wave, bootleg)",
+    "cn": "街头霸王 II - 四大天王（赤色波动 盗版 第1套, 920313 世界版）"
+  },
+  {
+    "rom": "sf2rk",
+    "en": "Street Fighter II: The World Warrior (RK, bootleg)",
+    "cn": "街头霸王 2 - 天下斗士（RK, 盗版）"
+  },
+  {
+    "rom": "sf2stt",
+    "en": "Street Fighter II: The World Warrior (TAB Austria, bootleg, set 2)",
+    "cn": "街头霸王 II - 天下斗士（STT, TAB 奥地利盗版, 910214 世界版）"
+  },
+  {
+    "rom": "sf2thndr",
+    "en": "Street Fighter II: The World Warrior (Thunder Edition, bootleg)",
+    "cn": "街头霸王 II - 天下斗士（雷霆版 盗版, 910214 世界版, 第1套）"
+  },
+  {
+    "rom": "sf2ua",
+    "en": "Street Fighter II: The World Warrior (USA 910206)",
+    "cn": "街头霸王 II - 天下斗士（910206 美版）"
+  },
+  {
+    "rom": "sf2ub",
+    "en": "Street Fighter II: The World Warrior (USA 910214)",
+    "cn": "街头霸王 II - 天下斗士（910214 美版）"
+  },
+  {
+    "rom": "sf2uc",
+    "en": "Street Fighter II: The World Warrior (USA 910306)",
+    "cn": "街头霸王 II - 天下斗士（910306 美版）"
+  },
+  {
+    "rom": "sf2ud",
+    "en": "Street Fighter II: The World Warrior (USA 910318)",
+    "cn": "街头霸王 II - 天下斗士（910318 美版）"
+  },
+  {
+    "rom": "sf2ue",
+    "en": "Street Fighter II: The World Warrior (USA 910228)",
+    "cn": "街头霸王 II - 天下斗士（910228 美版）"
+  },
+  {
+    "rom": "sf2uf",
+    "en": "Street Fighter II: The World Warrior (USA 910411)",
+    "cn": "街头霸王 II - 天下斗士（910411 美版）"
+  },
+  {
+    "rom": "sf2ug",
+    "en": "Street Fighter II: The World Warrior (USA 910522, Rev. G)",
+    "cn": "街头霸王 II - 天下斗士（910522 美版, 修正版 G）"
+  },
+  {
+    "rom": "sf2ui",
+    "en": "Street Fighter II: The World Warrior (USA 910522, Rev. I)",
+    "cn": "街头霸王 II - 天下斗士（910522 美版, 修正版 I）"
+  },
+  {
+    "rom": "sf2uk",
+    "en": "Street Fighter II: The World Warrior (USA 911101)",
+    "cn": "街头霸王 II - 天下斗士（911101 美版）"
+  },
+  {
+    "rom": "sf2v004",
+    "en": "Street Fighter II': Champion Edition (V004, bootleg)",
+    "cn": "街头霸王 II - 四大天王（V004 盗版 第1套, 102092 美版）"
+  },
+  {
+    "rom": "sf2yyc",
+    "en": "Street Fighter II': Champion Edition (YYC, bootleg)",
+    "cn": "街头霸王 II - 四大天王（YYC 盗版 第1套, 920313 世界版）"
+  },
+  {
+    "rom": "slammast",
+    "en": "Saturday Night Slam Masters (World 930713)",
+    "cn": "摔角霸王（摔角霸王 930713 世界版）"
+  },
+  {
+    "rom": "slammastu",
+    "en": "Saturday Night Slam Masters (USA 930713)",
+    "cn": "摔角霸王（摔角霸王 930713 美版）"
+  },
+  {
+    "rom": "strider",
+    "en": "Strider (USA, B-Board 89624B-2)",
+    "cn": "出击飞龙（美版 第1套）"
+  },
+  {
+    "rom": "striderj",
+    "en": "Strider Hiryu (Japan)",
+    "cn": "出击飞龙（日版）"
+  },
+  {
+    "rom": "striderjr",
+    "en": "Strider Hiryu (Japan Resale Ver.)",
+    "cn": "出击飞龙（日版 重发售版）"
+  },
+  {
+    "rom": "striderua",
+    "en": "Strider (USA, B-Board 89624B-3)",
+    "cn": "出击飞龙（美版 第2套）"
+  },
+  {
+    "rom": "strideruc",
+    "en": "Strider (USA, B-Board 90629B-3, buggy Street Fighter II conversion)",
+    "cn": "出击飞龙（美版, 街霸II转换版）"
+  },
+  {
+    "rom": "unsquad",
+    "en": "U.N. Squadron (USA)",
+    "cn": "维和部队（美版）"
+  },
+  {
+    "rom": "varth",
+    "en": "Varth: Operation Thunderstorm (World 920714)",
+    "cn": "威虎战机 - 雷暴行动（920714 世界版）"
+  },
+  {
+    "rom": "varthj",
+    "en": "Varth: Operation Thunderstorm (Japan 920714)",
+    "cn": "威虎战机 - 雷暴行动（920714 日版）"
+  },
+  {
+    "rom": "varthjr",
+    "en": "Varth: Operation Thunderstorm (Japan Resale Ver. 920714)",
+    "cn": "威虎战机 - 雷暴行动（920714 日版 重发售版）"
+  },
+  {
+    "rom": "varthr1",
+    "en": "Varth: Operation Thunderstorm (World 920612)",
+    "cn": "威虎战机 - 雷暴行动（920612 世界版）"
+  },
+  {
+    "rom": "varthu",
+    "en": "Varth: Operation Thunderstorm (USA 920612)",
+    "cn": "威虎战机 - 雷暴行动（920612 美版）"
+  },
+  {
+    "rom": "willow",
+    "en": "Willow (World)",
+    "cn": "威洛之旅（美版）"
+  },
+  {
+    "rom": "willowj",
+    "en": "Willow (Japan)",
+    "cn": "威洛之旅（日版, 日文）"
+  },
+  {
+    "rom": "willowu",
+    "en": "Willow (USA)",
+    "cn": "威洛之旅（美版）"
+  },
+  {
+    "rom": "willowuo",
+    "en": "Willow (USA Old Ver.)",
+    "cn": "威洛之旅（美版 旧版）"
+  },
+  {
+    "rom": "wof",
+    "en": "Warriors of Fate (World 921031)",
+    "cn": "三国志 II（921031 世界版）"
+  },
+  {
+    "rom": "wofa",
+    "en": "Sangokushi II (Asia 921005)",
+    "cn": "三国志 II（921005 亚洲版）"
+  },
+  {
+    "rom": "wofhfh",
+    "en": "Huo Feng Huang (Chinese bootleg of Sangokushi II)",
+    "cn": "三国志 II - 火凤凰（中国盗版, 921005 亚洲版）"
+  },
+  {
+    "rom": "wofj",
+    "en": "Tenchi wo Kurau II: Sekiheki no Tatakai (Japan 921031)",
+    "cn": "吞食天地 II - 赤壁之战（921031 日版）"
+  },
+  {
+    "rom": "wofr1",
+    "en": "Warriors of Fate (World 921002)",
+    "cn": "三国志 II（921002 世界版）"
+  },
+  {
+    "rom": "wofu",
+    "en": "Warriors of Fate (USA 921031)",
+    "cn": "三国志 II（921031 美版）"
+  },
+  {
+    "rom": "wonder3",
+    "en": "Wonder 3 (Japan 910520)",
+    "cn": "三个奇迹（910520 日版）"
+  }
+]

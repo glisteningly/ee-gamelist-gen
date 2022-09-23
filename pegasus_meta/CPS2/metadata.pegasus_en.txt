@@ -1,0 +1,1577 @@
+﻿collection: CP System II
+shortname: cps2
+sort-by: arcade 1-1993
+extensions:  7z, zip
+launch: am start --user 0
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/fbalpha2012_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e IME com.android.inputmethod.latin/.LatinIME
+  -e DATADIR /data/data/com.retroarch
+  -e APK /data/app/com.retroarch/base.apk
+  -e SDCARD /storage/emulated/0
+  -e EXTERNAL /storage/emulated/0/Android/data/com.retroarch/files
+  --activity-clear-top
+
+game: 1944 : The Loop Master (USA 000620)
+file: 1944.zip
+developer: 8ing/Raizing
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Vertical
+description:
+  The game takes place in the heated battles of 1944 during the Second World War
+  as a super ace pilot attempts to defeat an entire army. The game operates and
+  plays like most standard shooters. The objective of every level is to shoot
+  enemy planes, tanks, trains, turrets, battleships, and defeat the boss after
+  each level. Unlike its predecessor, 19XX: The War Against Destiny, the game
+  plays more like the early games in the series.
+release: 2000-01-01
+players: 2
+rating: 90%
+x-id: 37385
+
+
+
+game: 19XX : The War Against Destiny (USA 951207)
+file: 19xx.zip
+developer: Capcom
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Vertical
+description:
+  19XX: The War Against Destiny is a vertical scrolling shooter arcade game made
+  by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of
+  World War II vertical shooters made by Capcom. The story takes place before a
+  fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire
+  army/evil organization from starting another World War, which soon escalates to
+  a nuclear apocalypse.
+release: 1996-01-01
+players: 2
+rating: 70%
+x-id: 37386
+
+
+
+game: Aliens Versus Predator (Euro 940520)
+file: avsp.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  San Drad, California, has been overrun by the Aliens, and the
+  cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have
+  been abandoned by their superiors and are cornered by a swarm of the Alien
+  drones. Before they can be killed, a pair of the Predators appear and destroy
+  the Aliens. The Predators offer an alliance with the two humans in order to stop
+  the Alien infestation.
+  .
+  The players take control of up to three of four characters: Dutch, Linn, a
+  Predator hunter, and a Predator warrior, and battle the Aliens through several
+  environments. In the process, the characters discover that the Alien presence on
+  Earth is the result of an experiment headed by a renegade General Bush of the
+  U.S. Colonial Marines in conjunction with the Weyland-Yutani corporation. They
+  destroy the Alien hive by crashing a military ship into San Drad, causing a huge
+  explosion. The Predator warrior then gives his wrist blades to Dutch and Linn in
+  recognition of their skills as warriors, before the Predators depart back into
+  space.
+release: 1994-01-01
+players: 3
+rating: 40%
+x-id: 37388
+
+
+
+game: Battle Circuit (Euro 970319)
+file: batcir.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  Battle Circuit take place in an alternate future earth, the game revolves around
+  a group of bounty hunters who must capture the mad scientist Doctor Saturn and
+  secure a sophisticated computer disc carrying a program known as the "Shiva
+  System". Battle Circuit, which was Capcom's last beat 'em game for the arcades,
+  contains comic-like characters in a futuristic science fiction setting and is
+  considered by some to be a cult classic.
+release: 1997-03-19
+players: 4
+rating: 70%
+x-id: 37389
+
+
+
+game: Capcom Sports Club (Euro 971017)
+file: csclub.zip
+developer: Capcom
+publisher: Capcom
+genre: Compilation-Sports
+description:
+  Capcom Sports Club is an arcade game released by Capcom in 1997. It is a
+  multi-sport game that consists of Smash Stars (Tennis), Dunk Stars (Basketball),
+  and Kick Stars (Football/Soccer).
+release: 1997-01-01
+players: 2
+rating: 70%
+x-id: 37390
+
+
+
+game: Cyberbots : Fullmetal Madness (Euro 950424)
+file: cybots.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Near the end of the 21st century, Earth begins to become overpopulated, leading
+  to many people living in man-made space colonies. The primary army of Earth
+  called "Earth Corps", has been conducting nefarious experiments and their work,
+  along with the actions of the playable characters, will determine Earth's
+  future.
+release: 1995-01-01
+players: 2
+rating: 75%
+x-id: 37391
+
+
+
+game: Dungeons & Dragons: Shadow over Mystara (Euro 960619)
+file: ddsom.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  Dungeons & Dragons: Shadow over Mystara is an arcade game developed and
+  published by Capcom in 1996 as a sequel to Dungeons & Dragons: Tower of Doom. It
+  was also released on the Sega Saturn, packaged with Tower of Doom, under the
+  title Dungeons & Dragons Collection. The game is set in the Dungeons & Dragons
+  campaign setting of Mystara. It was one of the last 2-D arcade side-scrollers
+  created by Capcom; only Battle Circuit (1997) came after Shadow over Mystara.
+release: 1996-06-19
+players: 4
+rating: 60%
+x-id: 37392
+
+
+
+game: Dungeons & Dragons: Tower of Doom (Euro 940412)
+file: ddtod.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  Dungeons & Dragons: Tower of Doom is the first of two video games created by
+  Capcom based on the Dungeons & Dragons tabletop role-playing game. The game was
+  also released on the Sega Saturn, packaged with its sequel, Dungeons & Dragons:
+  Shadow over Mystara, under the title Dungeons & Dragons Collection, although the
+  Saturn version limited the gameplay to only 2 players. The game is set in the
+  Mystara campaign setting.
+release: 1993-01-01
+players: 4
+rating: 60%
+x-id: 37393
+
+
+
+game: Eco Fighters (World 931203)
+file: ecofghtr.zip
+developer: Capcom
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Horizontal
+description:
+  Eco Fighters is a horizontal shooter, where the player controls a ship with a
+  rotating gun. As suggested by both its titles, the game has an "eco-friendly"
+  theme. It was also developed by the same team from two Mega Man arcade titles,
+  The Power Battle and The Power Fighters.
+release: 1993-01-01
+players: 2
+rating: 70%
+x-id: 37395
+
+
+
+game: Giga Wing (USA 990222)
+file: gigawing.zip
+developer: Takumi
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Vertical
+description:
+  'Medallions' are mystic stones sent from heaven, brought evolution to human
+  technology and lead tremendous progress to the armories. To gain their powers
+  which the 'Stones' hold for the promised victory, many nations fought over the
+  mystic stones and reheated the world of war. Within all the 'Stones' is the
+  'Medallion of Wisdom', known as the power source of all mystic stones, it had
+  enough energy to terminate humanity. The whole world was in despair. And now,
+  four brave worriers have risen to fly straight into the combat zone! All four
+  had different reasons, but their ultimate goal was the same: to destroy the
+  Medallion of Wisdom! Fight to save the humanity!
+  .
+  Giga Wing is a shoot-em-up set during a fictional war. The player controls one
+  of four different futuristic aircraft and must destroy enemy aircraft, tanks,
+  ships, and buildings using both guns and missiles mounted on the aircraft and a
+  limited supply of bombs which damage or destroy all enemies on-screen when used.
+release: 1999-01-01
+players: 2
+rating: 85%
+x-id: 41446
+
+
+
+game: Great Mahou Daisakusen (Euro 000121)
+file: dimahoo.zip
+developer: Raizing
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Vertical
+description:
+  The game is set in a futuristic environment with dragons, little turtles with
+  lasers on their back, and little green goblins with red eyes. The player picks
+  one of four friends to travel with. The two characters fly through the levels in
+  the game and collect items. Each item has a point value and the points are used
+  to fill up a chart at the end. The items include: food, swords, armors, boots,
+  etc. Towards the end of the game, the bosses become incredibly hard. The fast
+  backgrounds create a confusing state of mind for the player.
+release: 2000-01-01
+players: 2
+rating: 90%
+x-id: 37394
+
+
+
+game: Hyper Street Fighter II: The Anniversary Edition (USA 040202)
+file: hsf2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game
+  by Capcom that was originally released for the PlayStation 2 in 2003 in Japan
+  and in 2004 in North America and Asia. Released to commemorate the 15th
+  anniversary of the Street Fighter series, Hyper Street Fighter II is a modified
+  port of Super Street Fighter II Turbo in which players can control any versions
+  of the main characters from the five Street Fighter II games previously released
+  for the arcades. Although, originally released as a home console game, an arcade
+  port was released shortly afterwards in limited quantities, turning it into the
+  sixth and final arcade iteration.
+release: 2003-12-01
+players: 2
+rating: 80%
+x-id: 149430
+
+
+
+game: Jyangokushi: Haoh no Saihai (Japan 990527)
+file: jyangoku.zip
+publisher: Capcom
+genre: Mahjong-Asiatic board game
+description: Jangokushi: Haou no Saihai is an other mahjong game from Capcom.
+release: 1999-01-01
+players: 1
+x-id: 41934
+
+
+
+game: Mars Matrix: Hyper Solid Shooting (USA 000412)
+file: mmatrix.zip
+developer: Takumi
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Vertical
+description:
+  A prediction is that before human civilization, there was once an advanced
+  civilization on Mars. A sorceress destroyed the civilization and everything that
+  was remembered of it, except a chip called "INFINITY". In 2100, millions of
+  people were starving due to massive food shortages and has caused civil wars
+  around the world. Centuries later, however, the world government had sent
+  colonists to Mars which began to solve these problems. At a nearby farm, the
+  Infinity chip was discovered and it revealed all the technology of the advanced
+  civilization. In 2309, a Declaration of Independence has been sent to Earth.
+  Large armies have been amassed on Mars, and a gigantic armada was waiting for
+  any attack from Earth. The Earth government sends out a fleet of battleships
+  followed by a special air raid unit called ACID; ACID is equipped with a new
+  fighter ship known as the Mosquito. Their mission is to enter Mars, stop the
+  rebel violence, locate and destroy the rebel leader, whoever... or whatever it
+  may be...
+release: 2000-01-01
+players: 2
+rating: 70%
+x-id: 37399
+
+
+
+game: Marvel Super Heroes (Euro 951024)
+file: msh.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible
+  Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut
+  or Magneto. Power up with an Infinity Gem - Grant your super hero healing power,
+  super attacks and increased strength.
+release: 1995-01-01
+players: 2
+rating: 80%
+x-id: 37401
+
+
+
+game: Marvel Super Heroes vs. Street Fighter (Euro 970625)
+file: mshvsf.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  Marvel Super Heroes vs. Street Fighter is the fourth Marvel Comics-licensed
+  fighting game produced by Capcom and the second installment in the Marvel vs.
+  Capcom series. It is a sequel to X-Men vs. Street Fighter which replaces most of
+  the X-Men characters with characters from Marvel Super Heroes. In an attempt to
+  balance the previous game's problems, the game engine was altered, although it
+  remained aesthetically the same which is what the game was criticized for. The
+  game was released for the arcade in 1997
+  .
+  Marvel Super Heroes vs. Street Fighter features a roster of 17 playable
+  fighters, with nine characters from the Street Fighter universe and eight heroes
+  from the Marvel Universe, It utilizes the same one-on-one tag team format
+  previously employed in X-Men vs. Street Fighter.\n
+  The player chooses a team of two fighters, each sporting their own life gauge;
+  at the start of the match, the first selected character is controlled by the
+  player, while the second character remains off-screen and acts as support.
+release: 1997-01-01
+players: 2
+rating: 80%
+x-id: 37402
+
+
+
+game: Marvel vs. Capcom : Clash of Super Heroes (Euro 980123)
+file: mvsc.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  Marvel vs. Capcom: Clash of Super Heroes is the fifth Marvel Comics-licensed
+  fighting game by Capcom and the third game in the Marvel vs. Capcom series. In
+  contrast to X-Men vs. Street Fighter and Marvel Super Heroes vs. Street Fighter,
+  the game features characters from numerous Capcom franchises such as Mega Man
+  and Strider, rather than just Street Fighter characters. The game takes place
+  within the Marvel comic continuity, as Professor Charles Xavier calls out for
+  heroes to stop him before he merges with the consciousness of Magneto and
+  becomes the being known as Onslaught, the final boss. The game was developed in
+  late 1997 and first released in January 1998.
+release: 1998-01-23
+players: 2
+rating: 85%
+x-id: 37403
+
+
+
+game: Mighty! Pang (Euro 001010)
+file: mpang.zip
+developer: Mitchell
+publisher: Mitchell
+genre: Puzzle-Game
+description:
+  Mighty! Pang is the fourth game in the superb Pang series. While the artistic
+  design has been drastically changed, Mighty! Pang retains the same gameplay of
+  its predecessors. The game features three modes of play: panic, tour and expert
+  modes.
+release: 2000-01-01
+players: 2
+rating: 75%
+x-id: 37400
+
+
+
+game: Pocket Fighter (USA 970904)
+file: sgemf.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Super Gem Fighter: Mini Mix / Pocket Fighter is a superb, abstract and humorous
+  fighting game featuring miniaturized renditions from several Capcom fighting
+  games; including the legendary "Street Fighter" series, as well as
+  "Darkstalkers" and the little-known "Red Earth".
+  .
+  During a bout, players will be able to release coloured gems from successful
+  attacks against their opponent, as well as from wooden chests that regularly
+  appear. Collecting these gems will 'power-up' the player's character, giving
+  them more powerful attacks. There are two bars and three sub-bars in the
+  interface. The two main bars are the life bar and the super bar; the first
+  indicates the player's health and the second their ability to throw super
+  combos. The Super Bar itself can be filled up to nine levels, allowing players
+  to execute more super combos. Each super combo has a level assigned to it, and
+  it uses Super Bars depending on it.
+release: 1997-01-01
+players: 2
+rating: 85%
+x-id: 37410
+
+
+
+game: Powered Gear: Strategic Variant Armor Equipment (Euro 941024)
+file: armwar.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  In the year 2281, the war spanning half a century over territory between the
+  United World Forces and the Raian Kingdom had at last come to an end.
+  .
+  But this peace was not to last. A year after a truce was signed between the two
+  forces, former Raian army captain Azrael, who has converted himself into a
+  cyborg in an attempt to become "the perfect warrior", has marshalled several
+  thousand other cyborgs and declared war against the Raian Kingdom. Robbing
+  mobile weapons from the army, this group of rogues has invaded the Raian capital
+  of Merkid and has begun to abduct the civilians.
+  .
+  The United World Government, receiving an emergency message from the planet
+  Raia, has but one choice: to organize and dispatch an army formed around its
+  elite corps, a squadron of warriors called "Bloody Armor", to eradicate the
+  enemy forces and rescue the civilians.
+  .
+  And so, in October 2282, the United World Forces begin to launch its attack upon
+  the planet Raia.
+  .
+  The most intense battle in human history is about to begin...
+release: 1994-01-01
+players: 3
+rating: 70%
+x-id: 37387
+
+
+
+game: Progear No Arashi (USA 010117)
+file: progear.zip
+developer: Cave
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Horizontal
+description:
+  In a time when the industrialization of the world had just begun, various
+  inventions appeared and changed the life of the peaceful kingdom. One of them
+  was a propeller that evolved from pure wind generation by using the created
+  electricity to re-rotate it. It was called 'The Professional Gear', or just
+  'Progear'. This invention was the key to conquer the great wide open sky.
+  Another discovery made the ancient dream of the immortal body come true. But it
+  was affordable only by some wealthy elderly. They formed a new council called
+  'the Motorouin' and declared the current government as a corruptive and greedy
+  establishment and that they want to correct it by a new educational system, in
+  order to create a new race of man. So they built a military force to realize the
+  first step of their plan, which was the takeover of the kingdom. The government
+  decided to stop the aggression by putting it's own army in motion. It was a
+  dreadful battle with many victims. But it was won by the Motorouin. This battle
+  is mentioned in the books of history as 'The Punishment of the Sages'.
+  .
+  A group of young pilots, actually children whose families were killed in that
+  war, finally decided to fight back. They secretly developed a new powerful
+  weapon which adults were not able to use. They called it 'Gun Flyer' and
+  installed it in all of their planes. The Storm of Progear was about to begin!
+release: 2001-01-01
+players: 2
+rating: 80%
+x-id: 37404
+
+
+
+game: Puzz Loop 2 (Euro 010302)
+file: pzloop2.zip
+developer: Mitchell
+publisher: Mitchell
+genre: Puzzle-Game / Throw-Puzzle-Game
+description:
+  Gameplay is exactly the same as its predecessor, Puzz Loop , with the player
+  needing to deplete all the colored balls before they hit the center of the
+  screen.
+release: 2001-01-01
+players: 2
+rating: 70%
+x-id: 37405
+
+
+
+game: Rockman 2: The Power Fighters (USA 960708)
+file: megaman2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight /  Co-op
+description:
+  Building upon the previous game, you must battle Dr. Wily's evil robot criminals
+  with the help of Megaman, Protoman, Bass & Duo. Features cool 2-D graphics and
+  the same tried & true Mega Man controls. Pay attention to Dr. Light's advice and
+  you may reach Dr. Wily's fortress and come out victorious!
+release: 1996-01-01
+players: 2
+rating: 65%
+x-id: 78893
+
+
+
+game: Street Fighter Zero (Euro 950727)
+file: sfa.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  It's Street Fighter as you always remember it, with some new moves, characters
+  and combo systems, as well as a more polished look and feel.
+  .
+  The new moves available for each fighter, called Super moves, allow them to fire
+  off very powerful moves. A bar at the bottom of the screen represents the power
+  that you have to use for the moves. You start the first round on 0, and each
+  attack that you make adds power to the bar. Once you reach level 3, you can
+  unleash the special attacks, that can sometimes KO the opponant.
+  .
+  The other major change over the Street Fighter 2 series are the Alpha counters.
+  These can be used to counter an on-coming attack after blocking.
+release: 1995-01-01
+players: 2
+rating: 75%
+x-id: 42986
+
+
+
+game: Street Fighter Zero 2 (Euro 960229)
+file: sfa2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Street Fighter Alpha 2, known as Street Fighter Zero 2 in Japan, Asia and South
+  America, is a 1996 fighting game originally released for the CPS II arcade
+  hardware by Capcom. The game is both a sequel and a remake to the previous
+  year's Street Fighter Alpha: Warriors' Dreams, which is itself a prequel to the
+  Street Fighter II series in terms of plot and setting
+release: 1996-01-01
+players: 2
+rating: 75%
+x-id: 37408
+
+
+
+game: Street Fighter Zero 3 (Euro 980904)
+file: sfa3.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31
+  fighters, the most in the series so far. New characters include old favorites E.
+  Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli. Some of the newest
+  fighters on the block include a former Final Fight character (Cody, who has been
+  in jail since the last Final Fight game, or so his clothing suggests), Karin
+  Kanzuki and Rainbow Mika. The major difference between this Alpha and the last
+  two are the new play modes World Tour, Arcade, VS, Training and Entry.
+release: 1998-01-01
+players: 2
+rating: 85%
+x-id: 37409
+
+
+
+game: Super Muscle Bomber: The International Blowout (Euro 940902)
+file: ringdest.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight
+description:
+  Ring of Destruction: Slam Masters II, is the 1994 sequel to Saturday Night Slam
+  Masters and the second game in the series. It was not ported to home consoles.
+  .
+  Unlike the first game, which played like a traditional wrestling game, Ring of
+  Destruction's format was changed to play like a traditional one-on-one 2D
+  fighting game (similar to Super Street Fighter II), with the action restricted
+  to one plane. The game's configuration was changed to a five-button setup (two
+  punch buttons, two kick buttons and a grappling button). The objective of each
+  match is to deplete the opponent's life bar in two out of three rounds. It is no
+  longer necessary for the player to pin their opponent to win a match, although
+  all the other moves have been retained.
+release: 1994-01-01
+players: 2
+rating: 70%
+x-id: 42766
+
+
+
+game: Super Puzzle Fighter II X (Euro 960529)
+file: spf2t.zip
+developer: Capcom
+publisher: Capcom
+genre: Puzzle-Game / Fall-Puzzle-Game
+description:
+  Burst right into the feverish puzzle action that combines irresistible,
+  addictive fun with famous Capcom characters. Beat your opponent to the punch by
+  stacking block after block in strategic patterns and color combinations. Be the
+  first to fill the opponent's screen with blocks and K.O. you win! But get ready
+  for more, because you can't play just once.
+release: 1996-01-01
+players: 2
+rating: 75%
+x-id: 37411
+
+
+
+game: Super Street Fighter II Turbo (World 940223)
+file: ssf2t.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X:
+  Grand Master Challenge, is a competitive fighting game released for the arcades
+  by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II
+  sub-series of Street Fighter games, following Super Street Fighter II. Like its
+  predecessor, it ran on the CP System II hardware.
+  .
+  Super Turbo introduced several new play mechanics to the game system from the
+  previous Street Fighter II installments, including the addition of powered-up
+  Special Moves called Super Combos. It also introduced the hidden character of
+  Akuma, who would go on to become a recurring character in later Street Fighter
+  installments and other Capcom fighting games.
+release: 1994-02-23
+players: 2
+rating: 80%
+x-id: 37413
+
+
+
+game: Super Street Fighter II: The New Challengers (World 931005)
+file: ssf2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Super Street Fighter II: The New Challengers is the fourth game in the Street
+  Fighter II sub-series of Street Fighter games, following Street Fighter II:
+  Hyper Fighting. In addition to refining and balancing the existing character
+  roster from the previous installments, Super Street Fighter II also introduced
+  four new characters.
+  .
+  This game is also known under the name of Super Street Fighter II: The
+  Tournament Battle when 4 Cabinets are connected to play in tournament mode.
+release: 1993-01-01
+players: 2
+rating: 85%
+x-id: 43304
+
+
+
+game: Vampire Hunter 2: Darkstalkers' Revenge (Japan 970929)
+file: vhunt2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Fourteen well-animated creatures from Hell rip, tear and otherwise fight for
+  control of the nether-realms.
+release: 1997-01-01
+players: 2
+rating: 70%
+x-id: 37415
+
+
+
+game: Vampire Hunter: Darkstalkers' Revenge (Euro 950316)
+file: nwarr.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Night Warriors: Darkstalkers' Revenge is the second game in the Darkstalkers
+  series of gothic horror fighting games. Released in 1995, it is the upgraded
+  version of the original game which introduced several gameplay changes to the
+  game.
+  .
+  The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who
+  were out to hunt the other Darkstalkers (hence the Japanese title, Vampire
+  Hunter). The two bosses from the first game, Huitzil and Pyron, were now
+  playable characters as well. The game was first released for arcades and later
+  ported to the Sega Saturn. Character art was done by Ikeno.
+release: 1995-01-01
+players: 2
+rating: 70%
+x-id: 44387
+
+
+
+game: Vampire Savior 2 : The Lord of Vampire (Japan 970913)
+file: vsav2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Fifteen characters fight to end the reign of Jedah, the Vampire Savior and save
+  their own souls!
+release: 1997-01-01
+players: 2
+rating: 70%
+x-id: 37418
+
+
+
+game: Vampire Savior: The Lord of Vampire (Euro 970519)
+file: vsav.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one
+  of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the
+  Darkness.
+release: 1997-01-01
+players: 2
+rating: 80%
+x-id: 37417
+
+
+
+game: Vampire: The Night Warriors (Euro 940705)
+file: dstlk.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  People tremble in fear of these monsters. A mysterious force awakens them from
+  their long slumber. 'Arise and show your fangs!' The silence of the night is
+  broken by the growls and roars of these evil spirits which have been summoned
+  from beyond. They are coming... tonight! DarkStalkers - the warriors of the
+  night!
+  .
+  DarkStalkers features spectacular fighting between supernatural monsters with 4
+  TIMES the graphics of SFII (its 15,000 animation patterns put it way out in
+  front of SSFII Turbo, resulting in realistic movement with smooth animation).
+  With endless playability you'll never tire of, make sport of your opponent with
+  incredible moves like the Special Attack and Death Blow which are humanly
+  impossible. We're talking about unlimited varieties of attack!
+  .
+  The unimaginable secret power of the dark is unleashed!
+release: 1994-01-01
+players: 2
+rating: 80%
+x-id: 41049
+
+
+
+game: X-Men vs. Street Fighter (Euro 961004)
+file: xmvsf.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight
+description:
+  X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary
+  fighters in a slugfest of epic proportions. Now you can perform outrageous moves
+  and link together amazing Chain Combos. X-Men vs. Street Fighter... the
+  collision of two explosive universes in the world's most amazing fantasy
+  fighter!
+release: 1996-01-01
+players: 2
+rating: 85%
+x-id: 37420
+
+
+
+game: X-Men: Children of the Atom (Euro 950331)
+file: xmcota.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  X-MEN UNLEASHED! It's here! Ultimate combat! Mutant mayhem! X-Power! Special
+  moves! Mid-air action! Big characters! Sizzling graphics! Exactly like you
+  played in the arcade! You will need all your mutant powers, all your speed, all
+  your strength... for this is the ultimate combat! Have you got enough to defeat
+  Magneto, Omega Red and the Sentinel? Are you tough enough for Wolverine,
+  powerful enough for Cyclops, cool enough for Iceman... are you good enough to
+  join the new breed of mutant heroes? X-Men Children of the Atom - the fighting
+  game to end them all!
+release: 1994-01-01
+players: 2
+rating: 60%
+x-id: 37419
+
+
+game: 1944 : The Loop Master (USA 000620)
+file: 1944.zip
+developer: 8ing/Raizing
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Vertical
+description:
+  The game takes place in the heated battles of 1944 during the Second World War
+  as a super ace pilot attempts to defeat an entire army. The game operates and
+  plays like most standard shooters. The objective of every level is to shoot
+  enemy planes, tanks, trains, turrets, battleships, and defeat the boss after
+  each level. Unlike its predecessor, 19XX: The War Against Destiny, the game
+  plays more like the early games in the series.
+release: 2000-01-01
+players: 2
+rating: 90%
+x-id: 37385
+
+
+
+game: 19XX : The War Against Destiny (USA 951207)
+file: 19xx.zip
+developer: Capcom
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Vertical
+description:
+  19XX: The War Against Destiny is a vertical scrolling shooter arcade game made
+  by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of
+  World War II vertical shooters made by Capcom. The story takes place before a
+  fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire
+  army/evil organization from starting another World War, which soon escalates to
+  a nuclear apocalypse.
+release: 1996-01-01
+players: 2
+rating: 70%
+x-id: 37386
+
+
+
+game: Aliens Versus Predator (Euro 940520)
+file: avsp.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  San Drad, California, has been overrun by the Aliens, and the
+  cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have
+  been abandoned by their superiors and are cornered by a swarm of the Alien
+  drones. Before they can be killed, a pair of the Predators appear and destroy
+  the Aliens. The Predators offer an alliance with the two humans in order to stop
+  the Alien infestation.
+  .
+  The players take control of up to three of four characters: Dutch, Linn, a
+  Predator hunter, and a Predator warrior, and battle the Aliens through several
+  environments. In the process, the characters discover that the Alien presence on
+  Earth is the result of an experiment headed by a renegade General Bush of the
+  U.S. Colonial Marines in conjunction with the Weyland-Yutani corporation. They
+  destroy the Alien hive by crashing a military ship into San Drad, causing a huge
+  explosion. The Predator warrior then gives his wrist blades to Dutch and Linn in
+  recognition of their skills as warriors, before the Predators depart back into
+  space.
+release: 1994-01-01
+players: 3
+rating: 40%
+x-id: 37388
+
+
+
+game: Battle Circuit (Euro 970319)
+file: batcir.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  Battle Circuit take place in an alternate future earth, the game revolves around
+  a group of bounty hunters who must capture the mad scientist Doctor Saturn and
+  secure a sophisticated computer disc carrying a program known as the "Shiva
+  System". Battle Circuit, which was Capcom's last beat 'em game for the arcades,
+  contains comic-like characters in a futuristic science fiction setting and is
+  considered by some to be a cult classic.
+release: 1997-03-19
+players: 4
+rating: 70%
+x-id: 37389
+
+
+
+game: Capcom Sports Club (Euro 971017)
+file: csclub.zip
+developer: Capcom
+publisher: Capcom
+genre: Compilation-Sports
+description:
+  Capcom Sports Club is an arcade game released by Capcom in 1997. It is a
+  multi-sport game that consists of Smash Stars (Tennis), Dunk Stars (Basketball),
+  and Kick Stars (Football/Soccer).
+release: 1997-01-01
+players: 2
+rating: 70%
+x-id: 37390
+
+
+
+game: Cyberbots : Fullmetal Madness (Euro 950424)
+file: cybots.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Near the end of the 21st century, Earth begins to become overpopulated, leading
+  to many people living in man-made space colonies. The primary army of Earth
+  called "Earth Corps", has been conducting nefarious experiments and their work,
+  along with the actions of the playable characters, will determine Earth's
+  future.
+release: 1995-01-01
+players: 2
+rating: 75%
+x-id: 37391
+
+
+
+game: Dungeons & Dragons: Shadow over Mystara (Euro 960619)
+file: ddsom.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  Dungeons & Dragons: Shadow over Mystara is an arcade game developed and
+  published by Capcom in 1996 as a sequel to Dungeons & Dragons: Tower of Doom. It
+  was also released on the Sega Saturn, packaged with Tower of Doom, under the
+  title Dungeons & Dragons Collection. The game is set in the Dungeons & Dragons
+  campaign setting of Mystara. It was one of the last 2-D arcade side-scrollers
+  created by Capcom; only Battle Circuit (1997) came after Shadow over Mystara.
+release: 1996-06-19
+players: 4
+rating: 60%
+x-id: 37392
+
+
+
+game: Dungeons & Dragons: Tower of Doom (Euro 940412)
+file: ddtod.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  Dungeons & Dragons: Tower of Doom is the first of two video games created by
+  Capcom based on the Dungeons & Dragons tabletop role-playing game. The game was
+  also released on the Sega Saturn, packaged with its sequel, Dungeons & Dragons:
+  Shadow over Mystara, under the title Dungeons & Dragons Collection, although the
+  Saturn version limited the gameplay to only 2 players. The game is set in the
+  Mystara campaign setting.
+release: 1993-01-01
+players: 4
+rating: 60%
+x-id: 37393
+
+
+
+game: Eco Fighters (World 931203)
+file: ecofghtr.zip
+developer: Capcom
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Horizontal
+description:
+  Eco Fighters is a horizontal shooter, where the player controls a ship with a
+  rotating gun. As suggested by both its titles, the game has an "eco-friendly"
+  theme. It was also developed by the same team from two Mega Man arcade titles,
+  The Power Battle and The Power Fighters.
+release: 1993-01-01
+players: 2
+rating: 70%
+x-id: 37395
+
+
+
+game: Giga Wing (USA 990222)
+file: gigawing.zip
+developer: Takumi
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Vertical
+description:
+  'Medallions' are mystic stones sent from heaven, brought evolution to human
+  technology and lead tremendous progress to the armories. To gain their powers
+  which the 'Stones' hold for the promised victory, many nations fought over the
+  mystic stones and reheated the world of war. Within all the 'Stones' is the
+  'Medallion of Wisdom', known as the power source of all mystic stones, it had
+  enough energy to terminate humanity. The whole world was in despair. And now,
+  four brave worriers have risen to fly straight into the combat zone! All four
+  had different reasons, but their ultimate goal was the same: to destroy the
+  Medallion of Wisdom! Fight to save the humanity!
+  .
+  Giga Wing is a shoot-em-up set during a fictional war. The player controls one
+  of four different futuristic aircraft and must destroy enemy aircraft, tanks,
+  ships, and buildings using both guns and missiles mounted on the aircraft and a
+  limited supply of bombs which damage or destroy all enemies on-screen when used.
+release: 1999-01-01
+players: 2
+rating: 85%
+x-id: 41446
+
+
+
+game: Great Mahou Daisakusen (Euro 000121)
+file: dimahoo.zip
+developer: Raizing
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Vertical
+description:
+  The game is set in a futuristic environment with dragons, little turtles with
+  lasers on their back, and little green goblins with red eyes. The player picks
+  one of four friends to travel with. The two characters fly through the levels in
+  the game and collect items. Each item has a point value and the points are used
+  to fill up a chart at the end. The items include: food, swords, armors, boots,
+  etc. Towards the end of the game, the bosses become incredibly hard. The fast
+  backgrounds create a confusing state of mind for the player.
+release: 2000-01-01
+players: 2
+rating: 90%
+x-id: 37394
+
+
+
+game: Hyper Street Fighter II: The Anniversary Edition (USA 040202)
+file: hsf2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game
+  by Capcom that was originally released for the PlayStation 2 in 2003 in Japan
+  and in 2004 in North America and Asia. Released to commemorate the 15th
+  anniversary of the Street Fighter series, Hyper Street Fighter II is a modified
+  port of Super Street Fighter II Turbo in which players can control any versions
+  of the main characters from the five Street Fighter II games previously released
+  for the arcades. Although, originally released as a home console game, an arcade
+  port was released shortly afterwards in limited quantities, turning it into the
+  sixth and final arcade iteration.
+release: 2003-12-01
+players: 2
+rating: 80%
+x-id: 149430
+
+
+
+game: Jyangokushi: Haoh no Saihai (Japan 990527)
+file: jyangoku.zip
+publisher: Capcom
+genre: Mahjong-Asiatic board game
+description: Jangokushi: Haou no Saihai is an other mahjong game from Capcom.
+release: 1999-01-01
+players: 1
+x-id: 41934
+
+
+
+game: Mars Matrix: Hyper Solid Shooting (USA 000412)
+file: mmatrix.zip
+developer: Takumi
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Vertical
+description:
+  A prediction is that before human civilization, there was once an advanced
+  civilization on Mars. A sorceress destroyed the civilization and everything that
+  was remembered of it, except a chip called "INFINITY". In 2100, millions of
+  people were starving due to massive food shortages and has caused civil wars
+  around the world. Centuries later, however, the world government had sent
+  colonists to Mars which began to solve these problems. At a nearby farm, the
+  Infinity chip was discovered and it revealed all the technology of the advanced
+  civilization. In 2309, a Declaration of Independence has been sent to Earth.
+  Large armies have been amassed on Mars, and a gigantic armada was waiting for
+  any attack from Earth. The Earth government sends out a fleet of battleships
+  followed by a special air raid unit called ACID; ACID is equipped with a new
+  fighter ship known as the Mosquito. Their mission is to enter Mars, stop the
+  rebel violence, locate and destroy the rebel leader, whoever... or whatever it
+  may be...
+release: 2000-01-01
+players: 2
+rating: 70%
+x-id: 37399
+
+
+
+game: Marvel Super Heroes (Euro 951024)
+file: msh.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible
+  Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut
+  or Magneto. Power up with an Infinity Gem - Grant your super hero healing power,
+  super attacks and increased strength.
+release: 1995-01-01
+players: 2
+rating: 80%
+x-id: 37401
+
+
+
+game: Marvel Super Heroes vs. Street Fighter (Euro 970625)
+file: mshvsf.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  Marvel Super Heroes vs. Street Fighter is the fourth Marvel Comics-licensed
+  fighting game produced by Capcom and the second installment in the Marvel vs.
+  Capcom series. It is a sequel to X-Men vs. Street Fighter which replaces most of
+  the X-Men characters with characters from Marvel Super Heroes. In an attempt to
+  balance the previous game's problems, the game engine was altered, although it
+  remained aesthetically the same which is what the game was criticized for. The
+  game was released for the arcade in 1997
+  .
+  Marvel Super Heroes vs. Street Fighter features a roster of 17 playable
+  fighters, with nine characters from the Street Fighter universe and eight heroes
+  from the Marvel Universe, It utilizes the same one-on-one tag team format
+  previously employed in X-Men vs. Street Fighter.\n
+  The player chooses a team of two fighters, each sporting their own life gauge;
+  at the start of the match, the first selected character is controlled by the
+  player, while the second character remains off-screen and acts as support.
+release: 1997-01-01
+players: 2
+rating: 80%
+x-id: 37402
+
+
+
+game: Marvel vs. Capcom : Clash of Super Heroes (Euro 980123)
+file: mvsc.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  Marvel vs. Capcom: Clash of Super Heroes is the fifth Marvel Comics-licensed
+  fighting game by Capcom and the third game in the Marvel vs. Capcom series. In
+  contrast to X-Men vs. Street Fighter and Marvel Super Heroes vs. Street Fighter,
+  the game features characters from numerous Capcom franchises such as Mega Man
+  and Strider, rather than just Street Fighter characters. The game takes place
+  within the Marvel comic continuity, as Professor Charles Xavier calls out for
+  heroes to stop him before he merges with the consciousness of Magneto and
+  becomes the being known as Onslaught, the final boss. The game was developed in
+  late 1997 and first released in January 1998.
+release: 1998-01-23
+players: 2
+rating: 85%
+x-id: 37403
+
+
+
+game: Mighty! Pang (Euro 001010)
+file: mpang.zip
+developer: Mitchell
+publisher: Mitchell
+genre: Puzzle-Game
+description:
+  Mighty! Pang is the fourth game in the superb Pang series. While the artistic
+  design has been drastically changed, Mighty! Pang retains the same gameplay of
+  its predecessors. The game features three modes of play: panic, tour and expert
+  modes.
+release: 2000-01-01
+players: 2
+rating: 75%
+x-id: 37400
+
+
+
+game: Pocket Fighter (USA 970904)
+file: sgemf.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Super Gem Fighter: Mini Mix / Pocket Fighter is a superb, abstract and humorous
+  fighting game featuring miniaturized renditions from several Capcom fighting
+  games; including the legendary "Street Fighter" series, as well as
+  "Darkstalkers" and the little-known "Red Earth".
+  .
+  During a bout, players will be able to release coloured gems from successful
+  attacks against their opponent, as well as from wooden chests that regularly
+  appear. Collecting these gems will 'power-up' the player's character, giving
+  them more powerful attacks. There are two bars and three sub-bars in the
+  interface. The two main bars are the life bar and the super bar; the first
+  indicates the player's health and the second their ability to throw super
+  combos. The Super Bar itself can be filled up to nine levels, allowing players
+  to execute more super combos. Each super combo has a level assigned to it, and
+  it uses Super Bars depending on it.
+release: 1997-01-01
+players: 2
+rating: 85%
+x-id: 37410
+
+
+
+game: Powered Gear: Strategic Variant Armor Equipment (Euro 941024)
+file: armwar.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  In the year 2281, the war spanning half a century over territory between the
+  United World Forces and the Raian Kingdom had at last come to an end.
+  .
+  But this peace was not to last. A year after a truce was signed between the two
+  forces, former Raian army captain Azrael, who has converted himself into a
+  cyborg in an attempt to become "the perfect warrior", has marshalled several
+  thousand other cyborgs and declared war against the Raian Kingdom. Robbing
+  mobile weapons from the army, this group of rogues has invaded the Raian capital
+  of Merkid and has begun to abduct the civilians.
+  .
+  The United World Government, receiving an emergency message from the planet
+  Raia, has but one choice: to organize and dispatch an army formed around its
+  elite corps, a squadron of warriors called "Bloody Armor", to eradicate the
+  enemy forces and rescue the civilians.
+  .
+  And so, in October 2282, the United World Forces begin to launch its attack upon
+  the planet Raia.
+  .
+  The most intense battle in human history is about to begin...
+release: 1994-01-01
+players: 3
+rating: 70%
+x-id: 37387
+
+
+
+game: Progear No Arashi (USA 010117)
+file: progear.zip
+developer: Cave
+publisher: Capcom
+genre: Shoot'em Up-Shoot'em up / Horizontal
+description:
+  In a time when the industrialization of the world had just begun, various
+  inventions appeared and changed the life of the peaceful kingdom. One of them
+  was a propeller that evolved from pure wind generation by using the created
+  electricity to re-rotate it. It was called 'The Professional Gear', or just
+  'Progear'. This invention was the key to conquer the great wide open sky.
+  Another discovery made the ancient dream of the immortal body come true. But it
+  was affordable only by some wealthy elderly. They formed a new council called
+  'the Motorouin' and declared the current government as a corruptive and greedy
+  establishment and that they want to correct it by a new educational system, in
+  order to create a new race of man. So they built a military force to realize the
+  first step of their plan, which was the takeover of the kingdom. The government
+  decided to stop the aggression by putting it's own army in motion. It was a
+  dreadful battle with many victims. But it was won by the Motorouin. This battle
+  is mentioned in the books of history as 'The Punishment of the Sages'.
+  .
+  A group of young pilots, actually children whose families were killed in that
+  war, finally decided to fight back. They secretly developed a new powerful
+  weapon which adults were not able to use. They called it 'Gun Flyer' and
+  installed it in all of their planes. The Storm of Progear was about to begin!
+release: 2001-01-01
+players: 2
+rating: 80%
+x-id: 37404
+
+
+
+game: Puzz Loop 2 (Euro 010302)
+file: pzloop2.zip
+developer: Mitchell
+publisher: Mitchell
+genre: Puzzle-Game / Throw-Puzzle-Game
+description:
+  Gameplay is exactly the same as its predecessor, Puzz Loop , with the player
+  needing to deplete all the colored balls before they hit the center of the
+  screen.
+release: 2001-01-01
+players: 2
+rating: 70%
+x-id: 37405
+
+
+
+game: Rockman 2: The Power Fighters (USA 960708)
+file: megaman2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight /  Co-op
+description:
+  Building upon the previous game, you must battle Dr. Wily's evil robot criminals
+  with the help of Megaman, Protoman, Bass & Duo. Features cool 2-D graphics and
+  the same tried & true Mega Man controls. Pay attention to Dr. Light's advice and
+  you may reach Dr. Wily's fortress and come out victorious!
+release: 1996-01-01
+players: 2
+rating: 65%
+x-id: 78893
+
+
+
+game: Street Fighter Zero (Euro 950727)
+file: sfa.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  It's Street Fighter as you always remember it, with some new moves, characters
+  and combo systems, as well as a more polished look and feel.
+  .
+  The new moves available for each fighter, called Super moves, allow them to fire
+  off very powerful moves. A bar at the bottom of the screen represents the power
+  that you have to use for the moves. You start the first round on 0, and each
+  attack that you make adds power to the bar. Once you reach level 3, you can
+  unleash the special attacks, that can sometimes KO the opponant.
+  .
+  The other major change over the Street Fighter 2 series are the Alpha counters.
+  These can be used to counter an on-coming attack after blocking.
+release: 1995-01-01
+players: 2
+rating: 75%
+x-id: 42986
+
+
+
+game: Street Fighter Zero 2 (Euro 960229)
+file: sfa2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Street Fighter Alpha 2, known as Street Fighter Zero 2 in Japan, Asia and South
+  America, is a 1996 fighting game originally released for the CPS II arcade
+  hardware by Capcom. The game is both a sequel and a remake to the previous
+  year's Street Fighter Alpha: Warriors' Dreams, which is itself a prequel to the
+  Street Fighter II series in terms of plot and setting
+release: 1996-01-01
+players: 2
+rating: 75%
+x-id: 37408
+
+
+
+game: Street Fighter Zero 3 (Euro 980904)
+file: sfa3.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31
+  fighters, the most in the series so far. New characters include old favorites E.
+  Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli. Some of the newest
+  fighters on the block include a former Final Fight character (Cody, who has been
+  in jail since the last Final Fight game, or so his clothing suggests), Karin
+  Kanzuki and Rainbow Mika. The major difference between this Alpha and the last
+  two are the new play modes World Tour, Arcade, VS, Training and Entry.
+release: 1998-01-01
+players: 2
+rating: 85%
+x-id: 37409
+
+
+
+game: Super Muscle Bomber: The International Blowout (Euro 940902)
+file: ringdest.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight
+description:
+  Ring of Destruction: Slam Masters II, is the 1994 sequel to Saturday Night Slam
+  Masters and the second game in the series. It was not ported to home consoles.
+  .
+  Unlike the first game, which played like a traditional wrestling game, Ring of
+  Destruction's format was changed to play like a traditional one-on-one 2D
+  fighting game (similar to Super Street Fighter II), with the action restricted
+  to one plane. The game's configuration was changed to a five-button setup (two
+  punch buttons, two kick buttons and a grappling button). The objective of each
+  match is to deplete the opponent's life bar in two out of three rounds. It is no
+  longer necessary for the player to pin their opponent to win a match, although
+  all the other moves have been retained.
+release: 1994-01-01
+players: 2
+rating: 70%
+x-id: 42766
+
+
+
+game: Super Puzzle Fighter II X (Euro 960529)
+file: spf2t.zip
+developer: Capcom
+publisher: Capcom
+genre: Puzzle-Game / Fall-Puzzle-Game
+description:
+  Burst right into the feverish puzzle action that combines irresistible,
+  addictive fun with famous Capcom characters. Beat your opponent to the punch by
+  stacking block after block in strategic patterns and color combinations. Be the
+  first to fill the opponent's screen with blocks and K.O. you win! But get ready
+  for more, because you can't play just once.
+release: 1996-01-01
+players: 2
+rating: 75%
+x-id: 37411
+
+
+
+game: Super Street Fighter II Turbo (World 940223)
+file: ssf2t.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X:
+  Grand Master Challenge, is a competitive fighting game released for the arcades
+  by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II
+  sub-series of Street Fighter games, following Super Street Fighter II. Like its
+  predecessor, it ran on the CP System II hardware.
+  .
+  Super Turbo introduced several new play mechanics to the game system from the
+  previous Street Fighter II installments, including the addition of powered-up
+  Special Moves called Super Combos. It also introduced the hidden character of
+  Akuma, who would go on to become a recurring character in later Street Fighter
+  installments and other Capcom fighting games.
+release: 1994-02-23
+players: 2
+rating: 80%
+x-id: 37413
+
+
+
+game: Super Street Fighter II: The New Challengers (World 931005)
+file: ssf2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Super Street Fighter II: The New Challengers is the fourth game in the Street
+  Fighter II sub-series of Street Fighter games, following Street Fighter II:
+  Hyper Fighting. In addition to refining and balancing the existing character
+  roster from the previous installments, Super Street Fighter II also introduced
+  four new characters.
+  .
+  This game is also known under the name of Super Street Fighter II: The
+  Tournament Battle when 4 Cabinets are connected to play in tournament mode.
+release: 1993-01-01
+players: 2
+rating: 85%
+x-id: 43304
+
+
+
+game: Vampire Hunter 2: Darkstalkers' Revenge (Japan 970929)
+file: vhunt2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Fourteen well-animated creatures from Hell rip, tear and otherwise fight for
+  control of the nether-realms.
+release: 1997-01-01
+players: 2
+rating: 70%
+x-id: 37415
+
+
+
+game: Vampire Hunter: Darkstalkers' Revenge (Euro 950316)
+file: nwarr.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Night Warriors: Darkstalkers' Revenge is the second game in the Darkstalkers
+  series of gothic horror fighting games. Released in 1995, it is the upgraded
+  version of the original game which introduced several gameplay changes to the
+  game.
+  .
+  The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who
+  were out to hunt the other Darkstalkers (hence the Japanese title, Vampire
+  Hunter). The two bosses from the first game, Huitzil and Pyron, were now
+  playable characters as well. The game was first released for arcades and later
+  ported to the Sega Saturn. Character art was done by Ikeno.
+release: 1995-01-01
+players: 2
+rating: 70%
+x-id: 44387
+
+
+
+game: Vampire Savior 2 : The Lord of Vampire (Japan 970913)
+file: vsav2.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Fifteen characters fight to end the reign of Jedah, the Vampire Savior and save
+  their own souls!
+release: 1997-01-01
+players: 2
+rating: 70%
+x-id: 37418
+
+
+
+game: Vampire Savior: The Lord of Vampire (Euro 970519)
+file: vsav.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one
+  of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the
+  Darkness.
+release: 1997-01-01
+players: 2
+rating: 80%
+x-id: 37417
+
+
+
+game: Vampire: The Night Warriors (Euro 940705)
+file: dstlk.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight-Fight / Versus
+description:
+  People tremble in fear of these monsters. A mysterious force awakens them from
+  their long slumber. 'Arise and show your fangs!' The silence of the night is
+  broken by the growls and roars of these evil spirits which have been summoned
+  from beyond. They are coming... tonight! DarkStalkers - the warriors of the
+  night!
+  .
+  DarkStalkers features spectacular fighting between supernatural monsters with 4
+  TIMES the graphics of SFII (its 15,000 animation patterns put it way out in
+  front of SSFII Turbo, resulting in realistic movement with smooth animation).
+  With endless playability you'll never tire of, make sport of your opponent with
+  incredible moves like the Special Attack and Death Blow which are humanly
+  impossible. We're talking about unlimited varieties of attack!
+  .
+  The unimaginable secret power of the dark is unleashed!
+release: 1994-01-01
+players: 2
+rating: 80%
+x-id: 41049
+
+
+
+game: X-Men vs. Street Fighter (Euro 961004)
+file: xmvsf.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight
+description:
+  X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary
+  fighters in a slugfest of epic proportions. Now you can perform outrageous moves
+  and link together amazing Chain Combos. X-Men vs. Street Fighter... the
+  collision of two explosive universes in the world's most amazing fantasy
+  fighter!
+release: 1996-01-01
+players: 2
+rating: 85%
+x-id: 37420
+
+
+
+game: X-Men: Children of the Atom (Euro 950331)
+file: xmcota.zip
+developer: Capcom
+publisher: Capcom
+genre: Fight / Versus-Fight
+description:
+  X-MEN UNLEASHED! It's here! Ultimate combat! Mutant mayhem! X-Power! Special
+  moves! Mid-air action! Big characters! Sizzling graphics! Exactly like you
+  played in the arcade! You will need all your mutant powers, all your speed, all
+  your strength... for this is the ultimate combat! Have you got enough to defeat
+  Magneto, Omega Red and the Sentinel? Are you tough enough for Wolverine,
+  powerful enough for Cyclops, cool enough for Iceman... are you good enough to
+  join the new breed of mutant heroes? X-Men Children of the Atom - the fighting
+  game to end them all!
+release: 1994-01-01
+players: 2
+rating: 60%
+x-id: 37419
+
+
+
+
+collection: 洛克人
+shortname: megaman
+sort-by: z collection megaman
+summary: collection
+description: Mega Man
+regex: megaman\w?
+
+collection: 街霸
+shortname: sf
+sort-by: z collection sf
+summary: collection
+description: Street Fighter
+regex: (ssf2|sfa)\w?
